@@ -1,0 +1,21 @@
+{
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_face": "Consolas",
+	"font_size": 14.0,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"SublimeCodeIntel"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"match_brackets_content": false,
+	"scroll_past_end": true,
+	"soda_classic_tabs": false,
+	"soda_folder_icons": true,
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

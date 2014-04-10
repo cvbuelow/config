@@ -1,0 +1,76 @@
+[
+  {
+    "caption": "Sublimerge: Compare to View...",
+    "command": "sublimerge_compare_to_view"
+  },
+  {
+    "caption": "Sublimerge: Compare to Revision...",
+    "command": "sublimerge_compare_to_revision"
+  },
+  {
+    "caption": "Compare Revision to Revision...",
+    "command": "sublimerge_compare_revision_to_revision"
+  },
+  {
+    "caption": "Sublimerge: Show Changes Introduced in Revision...",
+    "command": "sublimerge_show_changes_in_revision"
+  },
+  {
+    "caption": "Sublimerge: Compare Selections...",
+    "command": "sublimerge_compare_selections"
+  },
+  {
+      "caption": "Sublimerge: Compare Selection in Views...",
+      "command": "sublimerge_compare_to_view_selections"
+  },
+  {
+      "caption": "Sublimerge: Compare to Snapshot",
+      "command": "sublimerge_compare_to_snapshot"
+  },
+  {
+      "caption": "Sublimerge: Custom Comparison...",
+      "command": "sublimerge_custom_comparison"
+  },
+  {
+      "caption": "Sublimerge: Compare to Clipboard",
+      "command": "sublimerge_compare_to_clipboard"
+  },
+  {
+    "caption": "Sublimerge: Go to Next Difference",
+    "command": "sublimerge_go_down"
+  },
+  {
+    "caption": "Sublimerge: Merge Change From Right to Left",
+    "command": "sublimerge_merge_left"
+  },
+  {
+    "caption": "Sublimerge: Merge Change From Left to Right",
+    "command": "sublimerge_merge_right"
+  },
+  {
+    "caption": "Sublimerge: Merge All From Right to Left",
+    "command": "sublimerge_merge_left",
+    "args": {"merge_all": true}
+  },
+  {
+    "caption": "Sublimerge: Merge All From Left to Right",
+    "command": "sublimerge_merge_right",
+    "args": {"merge_all": true}
+  },
+  {
+    "caption": "Sublimerge: Enter Edit Mode",
+    "command": "sublimerge_begin_edit"
+  },
+  {
+    "caption": "Sublimerge: Leave Edit Mode",
+    "command": "sublimerge_end_edit"
+  },
+  {
+    "command": "Sublimerge: Take Snapshot",
+    "args": { "group": -1, "index": -1 }
+  },
+  {
+    "command": "Sublimerge: Revert to Snapshot",
+    "args": { "group": -1, "index": -1 }
+  }
+]

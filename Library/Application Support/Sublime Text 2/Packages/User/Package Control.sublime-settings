@@ -1,0 +1,22 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"AngularJS",
+		"ApacheConf.tmLanguage",
+		"BracketHighlighter",
+		"Emmet",
+		"Find Function Definition",
+		"GitGutter",
+		"Jasmine",
+		"Jasmine BDD",
+		"JsFormat",
+		"JSHint",
+		"Markdown Preview",
+		"Package Control",
+		"Stylus",
+		"SublimeLinter",
+		"Sublimerge Pro",
+		"Theme - Soda"
+	]
+}

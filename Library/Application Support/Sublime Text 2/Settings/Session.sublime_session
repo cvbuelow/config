@@ -1,0 +1,5303 @@
+{
+	"folder_history":
+	[
+		"/Users/cvbuelow/play/php",
+		"/Users/cvbuelow/Apps/ihu-appshop",
+		"/Users/cvbuelow/Apps/ihu-common",
+		"/Users/cvbuelow/Apps/ihu-common.legal",
+		"/Users/cvbuelow/Apps/ihu-common.utility",
+		"/Users/cvbuelow/Apps/ihu-daemon",
+		"/Users/cvbuelow/work",
+		"/Users/cvbuelow/Apps/ihu-connections",
+		"/Users/cvbuelow/Apps/shoelace",
+		"/Users/cvbuelow",
+		"/Users/cvbuelow/Documents/workspace/jquery",
+		"/Users/cvbuelow/Apps/newapp3",
+		"/Users/cvbuelow/Apps-MY14",
+		"/Users/cvbuelow/Apps/ihu-app3",
+		"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+		"/Users/cvbuelow/Apps/ihu-accounts-2.0/dev"
+	],
+	"last_window_id": 173,
+	"settings":
+	{
+		"new_window_height": 856.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"decl",
+						"declineButton"
+					],
+					[
+						"back",
+						"backToDoc"
+					],
+					[
+						"get",
+						"getDocumentName"
+					],
+					[
+						"truc",
+						"truncatedEmail"
+					],
+					[
+						"ex",
+						"expect"
+					],
+					[
+						"to",
+						"toHaveBeenCalledWith"
+					],
+					[
+						"acc",
+						"AcceptTermsService"
+					],
+					[
+						"doc",
+						"docIndex"
+					],
+					[
+						"key",
+						"keyboardCancel"
+					],
+					[
+						"do",
+						"docIndex"
+					],
+					[
+						"Key",
+						"KeyboardWrapper"
+					],
+					[
+						"ac",
+						"acceptTermsByIndex"
+					],
+					[
+						"crea",
+						"createSpyObj"
+					],
+					[
+						"is",
+						"isValidEmailId"
+					],
+					[
+						"toha",
+						"toHaveBeenCalledWith"
+					],
+					[
+						"spin",
+						"Spinner"
+					],
+					[
+						"fa",
+						"failureObj"
+					],
+					[
+						"docu",
+						"documentIndex"
+					],
+					[
+						"an",
+						"angular	AngularJS"
+					],
+					[
+						"toh",
+						"toHaveBeenCalledWith"
+					],
+					[
+						"and",
+						"andReturn"
+					],
+					[
+						"toa",
+						"toHaveBeenCalledWith"
+					],
+					[
+						"exp",
+						"expect"
+					],
+					[
+						"desc",
+						"describe"
+					],
+					[
+						"dis",
+						"disableUp"
+					],
+					[
+						"$root",
+						"$rootScope	AngularJS"
+					],
+					[
+						"activ",
+						"activePage"
+					],
+					[
+						"$sta",
+						"$stateParams"
+					],
+					[
+						"dele",
+						"deleteAuthToken"
+					],
+					[
+						"gmss",
+						"gmservicesProvider"
+					],
+					[
+						"gms",
+						"gmservicesProvider"
+					],
+					[
+						"creat",
+						"createUserService"
+					],
+					[
+						"styl",
+						"styleHTML"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"tohav",
+						"toHaveBeenCalled"
+					],
+					[
+						"fail",
+						"failed"
+					],
+					[
+						"term",
+						"TermsConditionService"
+					],
+					[
+						"test",
+						"testData"
+					],
+					[
+						"Terms",
+						"TermsConditionService"
+					],
+					[
+						"$h",
+						"$httpBackend	AngularJS(DI)"
+					],
+					[
+						"$ht",
+						"$httpBackend	AngularJS"
+					],
+					[
+						"param",
+						"paramObj"
+					],
+					[
+						"$http",
+						"$httpBackend	AngularJS"
+					],
+					[
+						"user",
+						"UserAppsService"
+					],
+					[
+						"$",
+						"$compile	AngularJS"
+					],
+					[
+						"stat",
+						"mockState"
+					],
+					[
+						"exis",
+						"exitSuccessAndSetTime"
+					],
+					[
+						"mock",
+						"mockAuthCache"
+					],
+					[
+						"setc",
+						"setTCCheckTime"
+					],
+					[
+						"andCa",
+						"andCallThrough"
+					],
+					[
+						"moc",
+						"mock$state"
+					],
+					[
+						"log",
+						"logout"
+					],
+					[
+						"Authc",
+						"mockAuthCache"
+					],
+					[
+						"exi",
+						"exitSuccess"
+					],
+					[
+						"andC",
+						"andCallFake"
+					],
+					[
+						"mocks",
+						"mockState"
+					],
+					[
+						"sho",
+						"showDialog"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"init",
+						"initKeyboard"
+					],
+					[
+						"Auth",
+						"AuthUtilityService"
+					],
+					[
+						"toH",
+						"toHaveBeenCalled"
+					],
+					[
+						"vert",
+						"vertically-centered"
+					],
+					[
+						"ver",
+						"vertically-center"
+					],
+					[
+						"scro",
+						"scroll-window"
+					],
+					[
+						"para",
+						"parameters"
+					],
+					[
+						"ap",
+						"apps"
+					],
+					[
+						"num",
+						"numPages"
+					],
+					[
+						"toHave",
+						"toHaveBeenCalledWith"
+					],
+					[
+						"fir",
+						"firstNames"
+					],
+					[
+						"clear",
+						"clearVariables"
+					],
+					[
+						"$roo",
+						"$rootScope"
+					],
+					[
+						"toHa",
+						".toHaveBeenCalledWith"
+					],
+					[
+						"marg",
+						"margin-top"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"ge",
+						"getElementById"
+					],
+					[
+						"font-",
+						"font-size"
+					],
+					[
+						"med",
+						"mediumLineHeight"
+					],
+					[
+						"web",
+						"webServiceRequest"
+					],
+					[
+						"read",
+						"readFile"
+					],
+					[
+						"check",
+						"checkNonPrivilegedAccessToken"
+					],
+					[
+						"mo",
+						"mock$state"
+					],
+					[
+						"ol",
+						"old_password"
+					],
+					[
+						"ins",
+						"instanceof"
+					],
+					[
+						"serv",
+						"servicesData"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"succ",
+						"successState"
+					],
+					[
+						"suc",
+						"successState"
+					],
+					[
+						"auth",
+						"authService"
+					],
+					[
+						"spy",
+						"spyOn"
+					],
+					[
+						"Spi",
+						"mockUtilityService.Spinner.show"
+					],
+					[
+						"sp",
+						"spyOn"
+					],
+					[
+						"Con",
+						"ConnectionsApp"
+					],
+					[
+						"Ac",
+						"AccountsApp"
+					],
+					[
+						"from",
+						"fromParams"
+					],
+					[
+						"angul",
+						"angular.equals	AngularJS"
+					],
+					[
+						"cal",
+						"callbacks"
+					],
+					[
+						"$ro",
+						"$rootScope"
+					],
+					[
+						"com",
+						"gm.communication.watchForData"
+					],
+					[
+						"fram",
+						"FrameWorkWrapper"
+					],
+					[
+						"Connec",
+						"ConnectionsConstants"
+					],
+					[
+						"ws",
+						"mockWsGet"
+					],
+					[
+						"su",
+						"success"
+					],
+					[
+						"f",
+						"failure"
+					],
+					[
+						"er",
+						"errorStates"
+					],
+					[
+						"show",
+						"showDialog"
+					],
+					[
+						"mockS",
+						"mockStateParams"
+					],
+					[
+						"error",
+						"errorMsg"
+					],
+					[
+						"err",
+						"errorMsg"
+					],
+					[
+						"dev",
+						"deviceHandle"
+					],
+					[
+						"net",
+						"networkmanager"
+					],
+					[
+						"ID",
+						"ID_TOKEN"
+					],
+					[
+						"id",
+						"ID_TOKEN"
+					],
+					[
+						"retry",
+						"retryCount"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"Get",
+						"getAccount"
+					],
+					[
+						"$state",
+						"$stateParams"
+					],
+					[
+						"accou",
+						"accountCreation"
+					],
+					[
+						"of",
+						"offeringId"
+					],
+					[
+						"offer",
+						"offerId"
+					],
+					[
+						"$st",
+						"$stateParams"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 161.0,
+				"selected_items":
+				[
+					[
+						"jasmin",
+						"Set Syntax: Jasmine"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"mark",
+						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"removep",
+						"Package Control: Remove Package"
+					],
+					[
+						"pac",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"jshin",
+						"JSHint"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Function"
+					],
+					[
+						"",
+						"Snippet: Object Method"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 633.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/global/services/Utility.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/legalController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/legal.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/country/CountryController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/errors/ErrorManagerService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/errors/Constants.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/country/CountryController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/TermsController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/name/NameController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/common/createUserConfig.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/karma.conf.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/UserAppsService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/TermsConditionService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/AppStartUpService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/legal/termsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/test/spec/appsView/settings/legal/termsController.test.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/setup.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/index.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/utils/utils.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/drivingGuard.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/AppsDataCacheService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/httpConfigModule.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/FrameWorkWrapper.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/directives/browseAppScroll.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/services/appsVersionService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/services/appsService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/networks/choice/choiceController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/manage/manageAppsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/details/appDetailsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/browse/browseAppsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/Apps.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/lib/ihu-common.utility/src/global/directives/scroll.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/DataWatchService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/settings.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/index/index.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/test/karma.conf.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/common/appsViewConfig.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/legal/terms.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/index/indexController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/lib/ihu-common-legal/dist/ihu-common.legal.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/directives/textScroll.js",
+				"/Users/cvbuelow/Apps/ihu-daemon/src/messaging/appZero/app_zero.js",
+				"/Users/cvbuelow/Apps/ihu-daemon/src/messaging/appZero/route.js",
+				"/Users/cvbuelow/Apps/ihu-daemon/src/interfaces/DataWatchInterface.js",
+				"/Users/cvbuelow/Apps/ihu-daemon/src/messaging/messaging.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/networks/externalNetworksController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/SessionManagerService.js",
+				"/Users/cvbuelow/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/details/appDetails.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/styles/default/app.styl",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/details/screenshots/screenshots.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/lib/ihu-common.utility/src/global/directives/modal.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/bower.json",
+				"/Users/cvbuelow/Apps/ihu-appshop/gruntfile.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/browse/browseApps.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/directives/imgWithTitle.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/test/spec/Apps.test.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/test/spec/appsView/services/appsService.test.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/Config.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsDetailsController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/DeclineTermsService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/AcceptTermsService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/RoutingService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/settingsController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/frameworkServices.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/RoutingService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/index.html",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/termsDetails.html",
+				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/global/filters/unstyle.js",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/filters/unstyle.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/lib/mockgm/mockgm.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/build/lib/mockgm/mockgm.js",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/filters/stripStyle.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/DeclineTermsService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/common/createUserService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/common/createUserService.js",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/services/Utility.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsSummaryController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-keypad/keypad.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/AcceptTermsService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/build/lib/ihu-keypad/keypad.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/gruntfile.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/AcceptAndEmailTermsController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/DeclineTermsController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/AcceptTermsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/settings.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/target/dev-unit-test/sources/lib/ihu-common-legal/ihu-common.legal.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/package.json",
+				"/Users/cvbuelow/Apps/ihu-appshop/package.json",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/services/ResourceService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/bower.json",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/country/Country.html",
+				"/Users/cvbuelow/Apps/ihu-accounts-2.0/src/home/home.html",
+				"/Users/cvbuelow/Apps/ihu-accounts-2.0/src/accounts/settings/accountSettings.html",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/Constants.js",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/Config.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/config/emulator.json",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsConditionService.js",
+				"/Users/cvbuelow/.bash_profile",
+				"/Users/cvbuelow/.gitconfig",
+				"/Applications/SourceTree.app/Contents/Resources/opendiff-w.sh",
+				"/Users/cvbuelow/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/UserAppsService.test.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/UserAppsService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/RoutingService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/AppStartUpService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/lib/MockRadio.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/AppStartUpService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/home/homeController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/home/home.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/SessionManagerService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/SessionManagerService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/AcceptTermsController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/termsWrapper.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/termsWrapper.html",
+				"/Users/cvbuelow/Apps/ihu-connections/src/index.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/AcceptTermsService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/AcceptTermsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/Constant.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/.bowerrc",
+				"/Users/cvbuelow/Apps/ihu-common.legal/.gitignore",
+				"/Users/cvbuelow/Apps/ihu-appshop/test/lib/angular/angular-mocks.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/TermsConditionService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/config/stage.json",
+				"/Users/cvbuelow/Apps/ihu-accounts-2.0/gruntfile.js",
+				"/Users/cvbuelow/Apps/ihu-common/test/spec/accountCreation/createAccount/createAccountController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common/src/accountCreation/createAccount/createAccountController.js"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Users/cvbuelow/Apps/ihu-common.legal/test",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-daemon/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/shoelace/styles",
+					"/Users/cvbuelow/Apps/ihu-appshop",
+					"/Users/cvbuelow/Apps/ihu-appshop/lib",
+					"/Users/cvbuelow/Apps/ihu-appshop/test",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/test",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop/target/emulator",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-appshop",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-common.utility/src",
+					"/Users/cvbuelow/Apps/ihu-common/src",
+					"/Users/cvbuelow/Apps/ihu-daemon/src",
+					"/Users/cvbuelow/Apps/newapp3",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps",
+					"/Users/cvbuelow/Apps/ihu-connections",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps/ihu-connections",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-connections",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps/ihu-connections"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"emailTCByIndex",
+					"TermsConditionService",
+					"clearVariables",
+					"initKeyboard",
+					"KeyboardWrapper",
+					"getIsNewUser",
+					"createUserService",
+					"Spinner",
+					"TermsConditionService",
+					"acceptTermsByIndex",
+					"\"",
+					"AcceptTermsService",
+					"$root",
+					"handleError",
+					"AppLogger",
+					"cancelPressedInEmailEntry",
+					"email(",
+					"email",
+					"acceptTCsFailure",
+					"documentIndex",
+					"acceptTCsFailure",
+					"reRoute",
+					"emit",
+					"reRoute",
+					"AcceptTermsService",
+					"$q",
+					"console.log",
+					"returnToSettings",
+					"emailAndCancel",
+					"onCan",
+					"index",
+					"$stateParams.index",
+					"hideModal",
+					"showEmailError",
+					"_checkDataReturned",
+					"initDeferred",
+					"legal",
+					"Messaging.app_zero.route",
+					"CLOSE_GENERAL_APP",
+					"Messaging.app_zero.CLOSE_GENERAL_APP",
+					"closeGeneralApp",
+					"checkToCloseBackgroundApps",
+					"throw new Error",
+					"exitProcess",
+					"doneProcess",
+					"setUserAcc",
+					"terms",
+					"setUserAccepted",
+					"setUserA",
+					"numPages",
+					"terms",
+					"numPages",
+					"appthumb",
+					"css",
+					"sprite",
+					"Refresh",
+					"sprite",
+					"welcome",
+					"sprite",
+					"large-button",
+					"tile",
+					"large-button",
+					"lastNameFirstLetter",
+					".EighteenCharEllipsis",
+					".tile",
+					".large-button",
+					".tile",
+					"#exit",
+					"horiz",
+					"/* @echo emulator */",
+					"gmservices",
+					"should return the response data on success",
+					"GET_GEN10_NW_STATE !!!!!!",
+					"***property to check:GET_GEN10_NW_STATE",
+					"headers",
+					"getTCsSummary",
+					"getTCsDetail",
+					"headers",
+					"vin",
+					"ResourceService",
+					"$q",
+					"ResourceService",
+					"handleError",
+					"ihuModules",
+					"indexOf",
+					"?who=Foo%20Bar&tc_hash=123456",
+					"name=",
+					"91234",
+					"ihuModules",
+					"widgets",
+					"name=",
+					"who=Foo%20Bar&",
+					"name=",
+					"name",
+					"getVehicleConfiguration",
+					"usrName",
+					"DeclineTermsService",
+					"rejectTandC",
+					"DeclineTermsController",
+					"Rout",
+					"routing",
+					"$state",
+					"getCurrentUserAuthToken",
+					"UserAppsService",
+					"isUserValid",
+					"getTCsDetail",
+					"UserAppsService",
+					"UtilityService",
+					"RoutingService",
+					"AppStartUpService",
+					"termsAndConditions?",
+					"getTCsDetail",
+					"radioType",
+					"launch-ihu",
+					"httpConfig",
+					"LoggingConfig",
+					"BackManager",
+					"styleHTML",
+					"getTCsDetailsData",
+					".button",
+					"returnStr",
+					"'",
+					"\"",
+					"'",
+					"button",
+					":",
+					";",
+					":"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"//console.log",
+					"\\'",
+					"AppsGlobalModule",
+					"_UtilityService",
+					"init",
+					"clear",
+					"init",
+					"DataWatchInterface",
+					"userInfo.js",
+					"userMap.js",
+					"userUpdate.js",
+					"templateUrl: Constants.IHU_COMMON_PATH + '",
+					"AppsGlobalModule",
+					"scope"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 120.0
+			},
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 253.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1168.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"decl",
+						"declineButton"
+					],
+					[
+						"back",
+						"backToDoc"
+					],
+					[
+						"get",
+						"getDocumentName"
+					],
+					[
+						"truc",
+						"truncatedEmail"
+					],
+					[
+						"ex",
+						"expect"
+					],
+					[
+						"to",
+						"toHaveBeenCalledWith"
+					],
+					[
+						"acc",
+						"AcceptTermsService"
+					],
+					[
+						"doc",
+						"docIndex"
+					],
+					[
+						"key",
+						"keyboardCancel"
+					],
+					[
+						"do",
+						"docIndex"
+					],
+					[
+						"Key",
+						"KeyboardWrapper"
+					],
+					[
+						"ac",
+						"acceptTermsByIndex"
+					],
+					[
+						"crea",
+						"createSpyObj"
+					],
+					[
+						"is",
+						"isValidEmailId"
+					],
+					[
+						"toha",
+						"toHaveBeenCalledWith"
+					],
+					[
+						"spin",
+						"Spinner"
+					],
+					[
+						"fa",
+						"failureObj"
+					],
+					[
+						"docu",
+						"documentIndex"
+					],
+					[
+						"an",
+						"angular	AngularJS"
+					],
+					[
+						"toh",
+						"toHaveBeenCalledWith"
+					],
+					[
+						"and",
+						"andReturn"
+					],
+					[
+						"toa",
+						"toHaveBeenCalledWith"
+					],
+					[
+						"exp",
+						"expect"
+					],
+					[
+						"desc",
+						"describe"
+					],
+					[
+						"dis",
+						"disableUp"
+					],
+					[
+						"$root",
+						"$rootScope	AngularJS"
+					],
+					[
+						"activ",
+						"activePage"
+					],
+					[
+						"$sta",
+						"$stateParams"
+					],
+					[
+						"dele",
+						"deleteAuthToken"
+					],
+					[
+						"gmss",
+						"gmservicesProvider"
+					],
+					[
+						"gms",
+						"gmservicesProvider"
+					],
+					[
+						"creat",
+						"createUserService"
+					],
+					[
+						"styl",
+						"styleHTML"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"tohav",
+						"toHaveBeenCalled"
+					],
+					[
+						"fail",
+						"failed"
+					],
+					[
+						"term",
+						"TermsConditionService"
+					],
+					[
+						"test",
+						"testData"
+					],
+					[
+						"Terms",
+						"TermsConditionService"
+					],
+					[
+						"$h",
+						"$httpBackend	AngularJS(DI)"
+					],
+					[
+						"$ht",
+						"$httpBackend	AngularJS"
+					],
+					[
+						"param",
+						"paramObj"
+					],
+					[
+						"$http",
+						"$httpBackend	AngularJS"
+					],
+					[
+						"user",
+						"UserAppsService"
+					],
+					[
+						"$",
+						"$compile	AngularJS"
+					],
+					[
+						"stat",
+						"mockState"
+					],
+					[
+						"exis",
+						"exitSuccessAndSetTime"
+					],
+					[
+						"mock",
+						"mockAuthCache"
+					],
+					[
+						"setc",
+						"setTCCheckTime"
+					],
+					[
+						"andCa",
+						"andCallThrough"
+					],
+					[
+						"moc",
+						"mock$state"
+					],
+					[
+						"log",
+						"logout"
+					],
+					[
+						"Authc",
+						"mockAuthCache"
+					],
+					[
+						"exi",
+						"exitSuccess"
+					],
+					[
+						"andC",
+						"andCallFake"
+					],
+					[
+						"mocks",
+						"mockState"
+					],
+					[
+						"sho",
+						"showDialog"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"init",
+						"initKeyboard"
+					],
+					[
+						"Auth",
+						"AuthUtilityService"
+					],
+					[
+						"toH",
+						"toHaveBeenCalled"
+					],
+					[
+						"vert",
+						"vertically-centered"
+					],
+					[
+						"ver",
+						"vertically-center"
+					],
+					[
+						"scro",
+						"scroll-window"
+					],
+					[
+						"para",
+						"parameters"
+					],
+					[
+						"ap",
+						"apps"
+					],
+					[
+						"num",
+						"numPages"
+					],
+					[
+						"toHave",
+						"toHaveBeenCalledWith"
+					],
+					[
+						"fir",
+						"firstNames"
+					],
+					[
+						"clear",
+						"clearVariables"
+					],
+					[
+						"$roo",
+						"$rootScope"
+					],
+					[
+						"toHa",
+						".toHaveBeenCalledWith"
+					],
+					[
+						"marg",
+						"margin-top"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"ge",
+						"getElementById"
+					],
+					[
+						"font-",
+						"font-size"
+					],
+					[
+						"med",
+						"mediumLineHeight"
+					],
+					[
+						"web",
+						"webServiceRequest"
+					],
+					[
+						"read",
+						"readFile"
+					],
+					[
+						"check",
+						"checkNonPrivilegedAccessToken"
+					],
+					[
+						"mo",
+						"mock$state"
+					],
+					[
+						"ol",
+						"old_password"
+					],
+					[
+						"ins",
+						"instanceof"
+					],
+					[
+						"serv",
+						"servicesData"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"succ",
+						"successState"
+					],
+					[
+						"suc",
+						"successState"
+					],
+					[
+						"auth",
+						"authService"
+					],
+					[
+						"spy",
+						"spyOn"
+					],
+					[
+						"Spi",
+						"mockUtilityService.Spinner.show"
+					],
+					[
+						"sp",
+						"spyOn"
+					],
+					[
+						"Con",
+						"ConnectionsApp"
+					],
+					[
+						"Ac",
+						"AccountsApp"
+					],
+					[
+						"from",
+						"fromParams"
+					],
+					[
+						"angul",
+						"angular.equals	AngularJS"
+					],
+					[
+						"cal",
+						"callbacks"
+					],
+					[
+						"$ro",
+						"$rootScope"
+					],
+					[
+						"com",
+						"gm.communication.watchForData"
+					],
+					[
+						"fram",
+						"FrameWorkWrapper"
+					],
+					[
+						"Connec",
+						"ConnectionsConstants"
+					],
+					[
+						"ws",
+						"mockWsGet"
+					],
+					[
+						"su",
+						"success"
+					],
+					[
+						"f",
+						"failure"
+					],
+					[
+						"er",
+						"errorStates"
+					],
+					[
+						"show",
+						"showDialog"
+					],
+					[
+						"mockS",
+						"mockStateParams"
+					],
+					[
+						"error",
+						"errorMsg"
+					],
+					[
+						"err",
+						"errorMsg"
+					],
+					[
+						"dev",
+						"deviceHandle"
+					],
+					[
+						"net",
+						"networkmanager"
+					],
+					[
+						"ID",
+						"ID_TOKEN"
+					],
+					[
+						"id",
+						"ID_TOKEN"
+					],
+					[
+						"retry",
+						"retryCount"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"Get",
+						"getAccount"
+					],
+					[
+						"$state",
+						"$stateParams"
+					],
+					[
+						"accou",
+						"accountCreation"
+					],
+					[
+						"of",
+						"offeringId"
+					],
+					[
+						"offer",
+						"offerId"
+					],
+					[
+						"$st",
+						"$stateParams"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsDetailsController.js",
+					"settings":
+					{
+						"buffer_size": 4461,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/TermsDetailsController.test.js",
+					"settings":
+					{
+						"buffer_size": 11428,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsController.js",
+					"settings":
+					{
+						"buffer_size": 884,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 161.0,
+				"selected_items":
+				[
+					[
+						"jasmin",
+						"Set Syntax: Jasmine"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"mark",
+						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"removep",
+						"Package Control: Remove Package"
+					],
+					[
+						"pac",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"jshin",
+						"JSHint"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Function"
+					],
+					[
+						"",
+						"Snippet: Object Method"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 633.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/global/services/Utility.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/legalController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/legal.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/country/CountryController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/errors/ErrorManagerService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/errors/Constants.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/country/CountryController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/TermsController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/name/NameController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/common/createUserConfig.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/karma.conf.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/UserAppsService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/TermsConditionService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/AppStartUpService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/legal/termsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/test/spec/appsView/settings/legal/termsController.test.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/setup.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/index.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/utils/utils.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/drivingGuard.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/AppsDataCacheService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/httpConfigModule.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/FrameWorkWrapper.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/directives/browseAppScroll.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/services/appsVersionService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/services/appsService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/networks/choice/choiceController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/manage/manageAppsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/details/appDetailsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/browse/browseAppsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/Apps.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/lib/ihu-common.utility/src/global/directives/scroll.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/DataWatchService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/settings.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/index/index.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/test/karma.conf.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/common/appsViewConfig.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/legal/terms.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/index/indexController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/lib/ihu-common-legal/dist/ihu-common.legal.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/directives/textScroll.js",
+				"/Users/cvbuelow/Apps/ihu-daemon/src/messaging/appZero/app_zero.js",
+				"/Users/cvbuelow/Apps/ihu-daemon/src/messaging/appZero/route.js",
+				"/Users/cvbuelow/Apps/ihu-daemon/src/interfaces/DataWatchInterface.js",
+				"/Users/cvbuelow/Apps/ihu-daemon/src/messaging/messaging.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/networks/externalNetworksController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/SessionManagerService.js",
+				"/Users/cvbuelow/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/details/appDetails.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/styles/default/app.styl",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/details/screenshots/screenshots.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/lib/ihu-common.utility/src/global/directives/modal.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/bower.json",
+				"/Users/cvbuelow/Apps/ihu-appshop/gruntfile.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/browse/browseApps.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/directives/imgWithTitle.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/test/spec/Apps.test.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/test/spec/appsView/services/appsService.test.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/Config.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsDetailsController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/DeclineTermsService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/AcceptTermsService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/RoutingService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/settingsController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/frameworkServices.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/RoutingService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/index.html",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/termsDetails.html",
+				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/global/filters/unstyle.js",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/filters/unstyle.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/lib/mockgm/mockgm.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/build/lib/mockgm/mockgm.js",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/filters/stripStyle.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/DeclineTermsService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/common/createUserService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/common/createUserService.js",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/services/Utility.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsSummaryController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-keypad/keypad.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/AcceptTermsService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/build/lib/ihu-keypad/keypad.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/gruntfile.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/AcceptAndEmailTermsController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/DeclineTermsController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/AcceptTermsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/settings.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/target/dev-unit-test/sources/lib/ihu-common-legal/ihu-common.legal.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/package.json",
+				"/Users/cvbuelow/Apps/ihu-appshop/package.json",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/services/ResourceService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/bower.json",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/country/Country.html",
+				"/Users/cvbuelow/Apps/ihu-accounts-2.0/src/home/home.html",
+				"/Users/cvbuelow/Apps/ihu-accounts-2.0/src/accounts/settings/accountSettings.html",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/Constants.js",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/Config.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/config/emulator.json",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsConditionService.js",
+				"/Users/cvbuelow/.bash_profile",
+				"/Users/cvbuelow/.gitconfig",
+				"/Applications/SourceTree.app/Contents/Resources/opendiff-w.sh",
+				"/Users/cvbuelow/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/UserAppsService.test.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/UserAppsService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/RoutingService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/AppStartUpService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/lib/MockRadio.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/AppStartUpService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/home/homeController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/home/home.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/SessionManagerService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/SessionManagerService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/AcceptTermsController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/termsWrapper.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/termsWrapper.html",
+				"/Users/cvbuelow/Apps/ihu-connections/src/index.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/AcceptTermsService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/AcceptTermsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/Constant.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/.bowerrc",
+				"/Users/cvbuelow/Apps/ihu-common.legal/.gitignore",
+				"/Users/cvbuelow/Apps/ihu-appshop/test/lib/angular/angular-mocks.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/TermsConditionService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/config/stage.json",
+				"/Users/cvbuelow/Apps/ihu-accounts-2.0/gruntfile.js",
+				"/Users/cvbuelow/Apps/ihu-common/test/spec/accountCreation/createAccount/createAccountController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common/src/accountCreation/createAccount/createAccountController.js"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Users/cvbuelow/Apps/ihu-common.legal/test",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-daemon/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/shoelace/styles",
+					"/Users/cvbuelow/Apps/ihu-appshop",
+					"/Users/cvbuelow/Apps/ihu-appshop/lib",
+					"/Users/cvbuelow/Apps/ihu-appshop/test",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/test",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop/target/emulator",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-appshop",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-common.utility/src",
+					"/Users/cvbuelow/Apps/ihu-common/src",
+					"/Users/cvbuelow/Apps/ihu-daemon/src",
+					"/Users/cvbuelow/Apps/newapp3",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps",
+					"/Users/cvbuelow/Apps/ihu-connections",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps/ihu-connections",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-connections",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps/ihu-connections"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"emailTCByIndex",
+					"TermsConditionService",
+					"clearVariables",
+					"initKeyboard",
+					"KeyboardWrapper",
+					"getIsNewUser",
+					"createUserService",
+					"Spinner",
+					"TermsConditionService",
+					"acceptTermsByIndex",
+					"\"",
+					"AcceptTermsService",
+					"$root",
+					"handleError",
+					"AppLogger",
+					"cancelPressedInEmailEntry",
+					"email(",
+					"email",
+					"acceptTCsFailure",
+					"documentIndex",
+					"acceptTCsFailure",
+					"reRoute",
+					"emit",
+					"reRoute",
+					"AcceptTermsService",
+					"$q",
+					"console.log",
+					"returnToSettings",
+					"emailAndCancel",
+					"onCan",
+					"index",
+					"$stateParams.index",
+					"hideModal",
+					"showEmailError",
+					"_checkDataReturned",
+					"initDeferred",
+					"legal",
+					"Messaging.app_zero.route",
+					"CLOSE_GENERAL_APP",
+					"Messaging.app_zero.CLOSE_GENERAL_APP",
+					"closeGeneralApp",
+					"checkToCloseBackgroundApps",
+					"throw new Error",
+					"exitProcess",
+					"doneProcess",
+					"setUserAcc",
+					"terms",
+					"setUserAccepted",
+					"setUserA",
+					"numPages",
+					"terms",
+					"numPages",
+					"appthumb",
+					"css",
+					"sprite",
+					"Refresh",
+					"sprite",
+					"welcome",
+					"sprite",
+					"large-button",
+					"tile",
+					"large-button",
+					"lastNameFirstLetter",
+					".EighteenCharEllipsis",
+					".tile",
+					".large-button",
+					".tile",
+					"#exit",
+					"horiz",
+					"/* @echo emulator */",
+					"gmservices",
+					"should return the response data on success",
+					"GET_GEN10_NW_STATE !!!!!!",
+					"***property to check:GET_GEN10_NW_STATE",
+					"headers",
+					"getTCsSummary",
+					"getTCsDetail",
+					"headers",
+					"vin",
+					"ResourceService",
+					"$q",
+					"ResourceService",
+					"handleError",
+					"ihuModules",
+					"indexOf",
+					"?who=Foo%20Bar&tc_hash=123456",
+					"name=",
+					"91234",
+					"ihuModules",
+					"widgets",
+					"name=",
+					"who=Foo%20Bar&",
+					"name=",
+					"name",
+					"getVehicleConfiguration",
+					"usrName",
+					"DeclineTermsService",
+					"rejectTandC",
+					"DeclineTermsController",
+					"Rout",
+					"routing",
+					"$state",
+					"getCurrentUserAuthToken",
+					"UserAppsService",
+					"isUserValid",
+					"getTCsDetail",
+					"UserAppsService",
+					"UtilityService",
+					"RoutingService",
+					"AppStartUpService",
+					"termsAndConditions?",
+					"getTCsDetail",
+					"radioType",
+					"launch-ihu",
+					"httpConfig",
+					"LoggingConfig",
+					"BackManager",
+					"styleHTML",
+					"getTCsDetailsData",
+					".button",
+					"returnStr",
+					"'",
+					"\"",
+					"'",
+					"button",
+					":",
+					";",
+					":"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"//console.log",
+					"\\'",
+					"AppsGlobalModule",
+					"_UtilityService",
+					"init",
+					"clear",
+					"init",
+					"DataWatchInterface",
+					"userInfo.js",
+					"userMap.js",
+					"userUpdate.js",
+					"templateUrl: Constants.IHU_COMMON_PATH + '",
+					"AppsGlobalModule",
+					"scope"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/cvbuelow/Apps/ihu-common.legal"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsDetailsController.js",
+							"settings":
+							{
+								"buffer_size": 4461,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2713,
+										2713
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 741.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/TermsDetailsController.test.js",
+							"settings":
+							{
+								"buffer_size": 11428,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										11395,
+										11395
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4268.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsController.js",
+							"settings":
+							{
+								"buffer_size": 884,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 120.0
+			},
+			"position": "42 0 1168 878 0 0 1440 878 ",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 253.0,
+			"status_bar_visible": true,
+			"window_id": 169,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"doc",
+						"docIndex"
+					],
+					[
+						"docu",
+						"documentIndex"
+					],
+					[
+						"acc",
+						"acceptButton"
+					],
+					[
+						"an",
+						"angular	AngularJS"
+					],
+					[
+						"toha",
+						"toHaveBeenCalledWith"
+					],
+					[
+						"toh",
+						"toHaveBeenCalledWith"
+					],
+					[
+						"and",
+						"andReturn"
+					],
+					[
+						"toa",
+						"toHaveBeenCalledWith"
+					],
+					[
+						"exp",
+						"expect"
+					],
+					[
+						"desc",
+						"describe"
+					],
+					[
+						"crea",
+						"createSpy"
+					],
+					[
+						"ex",
+						"exp	expect"
+					],
+					[
+						"is",
+						"isServiceAvailable"
+					],
+					[
+						"dis",
+						"disableUp"
+					],
+					[
+						"$root",
+						"$rootScope	AngularJS"
+					],
+					[
+						"activ",
+						"activePage"
+					],
+					[
+						"$sta",
+						"$stateParams"
+					],
+					[
+						"dele",
+						"deleteAuthToken"
+					],
+					[
+						"gmss",
+						"gmservicesProvider"
+					],
+					[
+						"gms",
+						"gmservicesProvider"
+					],
+					[
+						"creat",
+						"createUserService"
+					],
+					[
+						"styl",
+						"styleHTML"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"tohav",
+						"toHaveBeenCalled"
+					],
+					[
+						"fail",
+						"failed"
+					],
+					[
+						"term",
+						"TermsConditionService"
+					],
+					[
+						"test",
+						"testData"
+					],
+					[
+						"Terms",
+						"TermsConditionService"
+					],
+					[
+						"$h",
+						"$httpBackend	AngularJS(DI)"
+					],
+					[
+						"$ht",
+						"$httpBackend	AngularJS"
+					],
+					[
+						"to",
+						"toHaveBeenCalled"
+					],
+					[
+						"param",
+						"paramObj"
+					],
+					[
+						"$http",
+						"$httpBackend	AngularJS"
+					],
+					[
+						"user",
+						"UserAppsService"
+					],
+					[
+						"$",
+						"$compile	AngularJS"
+					],
+					[
+						"stat",
+						"mockState"
+					],
+					[
+						"exis",
+						"exitSuccessAndSetTime"
+					],
+					[
+						"mock",
+						"mockAuthCache"
+					],
+					[
+						"setc",
+						"setTCCheckTime"
+					],
+					[
+						"andCa",
+						"andCallThrough"
+					],
+					[
+						"moc",
+						"mock$state"
+					],
+					[
+						"log",
+						"logout"
+					],
+					[
+						"Authc",
+						"mockAuthCache"
+					],
+					[
+						"exi",
+						"exitSuccess"
+					],
+					[
+						"andC",
+						"andCallFake"
+					],
+					[
+						"mocks",
+						"mockState"
+					],
+					[
+						"sho",
+						"showDialog"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"init",
+						"initKeyboard"
+					],
+					[
+						"Auth",
+						"AuthUtilityService"
+					],
+					[
+						"toH",
+						"toHaveBeenCalled"
+					],
+					[
+						"vert",
+						"vertically-centered"
+					],
+					[
+						"ver",
+						"vertically-center"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"scro",
+						"scroll-window"
+					],
+					[
+						"para",
+						"parameters"
+					],
+					[
+						"ac",
+						"activePage"
+					],
+					[
+						"ap",
+						"apps"
+					],
+					[
+						"num",
+						"numPages"
+					],
+					[
+						"get",
+						"getApps"
+					],
+					[
+						"toHave",
+						"toHaveBeenCalledWith"
+					],
+					[
+						"fir",
+						"firstNames"
+					],
+					[
+						"clear",
+						"clearVariables"
+					],
+					[
+						"$roo",
+						"$rootScope"
+					],
+					[
+						"toHa",
+						".toHaveBeenCalledWith"
+					],
+					[
+						"marg",
+						"margin-top"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"ge",
+						"getElementById"
+					],
+					[
+						"font-",
+						"font-size"
+					],
+					[
+						"med",
+						"mediumLineHeight"
+					],
+					[
+						"web",
+						"webServiceRequest"
+					],
+					[
+						"read",
+						"readFile"
+					],
+					[
+						"check",
+						"checkNonPrivilegedAccessToken"
+					],
+					[
+						"mo",
+						"mock$state"
+					],
+					[
+						"ol",
+						"old_password"
+					],
+					[
+						"ins",
+						"instanceof"
+					],
+					[
+						"serv",
+						"servicesData"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"succ",
+						"successState"
+					],
+					[
+						"suc",
+						"successState"
+					],
+					[
+						"auth",
+						"authService"
+					],
+					[
+						"spy",
+						"spyOn"
+					],
+					[
+						"Spi",
+						"mockUtilityService.Spinner.show"
+					],
+					[
+						"sp",
+						"spyOn"
+					],
+					[
+						"Con",
+						"ConnectionsApp"
+					],
+					[
+						"Ac",
+						"AccountsApp"
+					],
+					[
+						"from",
+						"fromParams"
+					],
+					[
+						"angul",
+						"angular.equals	AngularJS"
+					],
+					[
+						"cal",
+						"callbacks"
+					],
+					[
+						"$ro",
+						"$rootScope"
+					],
+					[
+						"com",
+						"gm.communication.watchForData"
+					],
+					[
+						"fram",
+						"FrameWorkWrapper"
+					],
+					[
+						"Connec",
+						"ConnectionsConstants"
+					],
+					[
+						"ws",
+						"mockWsGet"
+					],
+					[
+						"su",
+						"success"
+					],
+					[
+						"f",
+						"failure"
+					],
+					[
+						"er",
+						"errorStates"
+					],
+					[
+						"show",
+						"showDialog"
+					],
+					[
+						"mockS",
+						"mockStateParams"
+					],
+					[
+						"error",
+						"errorMsg"
+					],
+					[
+						"err",
+						"errorMsg"
+					],
+					[
+						"dev",
+						"deviceHandle"
+					],
+					[
+						"net",
+						"networkmanager"
+					],
+					[
+						"ID",
+						"ID_TOKEN"
+					],
+					[
+						"id",
+						"ID_TOKEN"
+					],
+					[
+						"retry",
+						"retryCount"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"Get",
+						"getAccount"
+					],
+					[
+						"$state",
+						"$stateParams"
+					],
+					[
+						"accou",
+						"accountCreation"
+					],
+					[
+						"of",
+						"offeringId"
+					],
+					[
+						"offer",
+						"offerId"
+					],
+					[
+						"$st",
+						"$stateParams"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/legal/termsController.js",
+					"settings":
+					{
+						"buffer_size": 2861,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/cvbuelow/Apps/ihu-appshop/src/global/FrameWorkWrapper.js",
+					"settings":
+					{
+						"buffer_size": 8402,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 161.0,
+				"selected_items":
+				[
+					[
+						"jasmin",
+						"Set Syntax: Jasmine"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"mark",
+						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"removep",
+						"Package Control: Remove Package"
+					],
+					[
+						"pac",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"jshin",
+						"JSHint"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Function"
+					],
+					[
+						"",
+						"Snippet: Object Method"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 633.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/common/createUserConfig.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/country/CountryController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/karma.conf.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/UserAppsService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/TermsController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/country/CountryController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/TermsConditionService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/AppStartUpService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/legal/termsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/test/spec/appsView/settings/legal/termsController.test.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/setup.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/index.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/utils/utils.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/drivingGuard.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/AppsDataCacheService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/httpConfigModule.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/FrameWorkWrapper.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/directives/browseAppScroll.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/services/appsVersionService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/services/appsService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/networks/choice/choiceController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/manage/manageAppsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/details/appDetailsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/browse/browseAppsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/Apps.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/lib/ihu-common.utility/src/global/directives/scroll.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/DataWatchService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/settings.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/index/index.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/test/karma.conf.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/common/appsViewConfig.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/legal/terms.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/index/indexController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/lib/ihu-common-legal/dist/ihu-common.legal.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/directives/textScroll.js",
+				"/Users/cvbuelow/Apps/ihu-daemon/src/messaging/appZero/app_zero.js",
+				"/Users/cvbuelow/Apps/ihu-daemon/src/messaging/appZero/route.js",
+				"/Users/cvbuelow/Apps/ihu-daemon/src/interfaces/DataWatchInterface.js",
+				"/Users/cvbuelow/Apps/ihu-daemon/src/messaging/messaging.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/networks/externalNetworksController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/SessionManagerService.js",
+				"/Users/cvbuelow/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/details/appDetails.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/styles/default/app.styl",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/details/screenshots/screenshots.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/lib/ihu-common.utility/src/global/directives/modal.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/bower.json",
+				"/Users/cvbuelow/Apps/ihu-appshop/gruntfile.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/browse/browseApps.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/directives/imgWithTitle.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/test/spec/Apps.test.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/test/spec/appsView/services/appsService.test.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/Config.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsDetailsController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/DeclineTermsService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/AcceptTermsService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/RoutingService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/settingsController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/frameworkServices.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/RoutingService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/index.html",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/termsDetails.html",
+				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/global/filters/unstyle.js",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/filters/unstyle.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/lib/mockgm/mockgm.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/build/lib/mockgm/mockgm.js",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/filters/stripStyle.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/DeclineTermsService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/common/createUserService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/common/createUserService.js",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/services/Utility.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsSummaryController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-keypad/keypad.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/global/services/Utility.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/errors/ErrorManagerService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/legal.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/AcceptTermsService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/build/lib/ihu-keypad/keypad.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/gruntfile.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/AcceptAndEmailTermsController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/DeclineTermsController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/AcceptTermsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/settings.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/target/dev-unit-test/sources/lib/ihu-common-legal/ihu-common.legal.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/package.json",
+				"/Users/cvbuelow/Apps/ihu-appshop/package.json",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/services/ResourceService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/bower.json",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/country/Country.html",
+				"/Users/cvbuelow/Apps/ihu-accounts-2.0/src/home/home.html",
+				"/Users/cvbuelow/Apps/ihu-accounts-2.0/src/accounts/settings/accountSettings.html",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/Constants.js",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/Config.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/config/emulator.json",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsConditionService.js",
+				"/Users/cvbuelow/.bash_profile",
+				"/Users/cvbuelow/.gitconfig",
+				"/Applications/SourceTree.app/Contents/Resources/opendiff-w.sh",
+				"/Users/cvbuelow/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/UserAppsService.test.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/UserAppsService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/RoutingService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/AppStartUpService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/lib/MockRadio.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/AppStartUpService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/home/homeController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/home/home.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/SessionManagerService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/SessionManagerService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/AcceptTermsController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/name/NameController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/termsWrapper.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/termsWrapper.html",
+				"/Users/cvbuelow/Apps/ihu-connections/src/index.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/AcceptTermsService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/AcceptTermsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/Constant.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/.bowerrc",
+				"/Users/cvbuelow/Apps/ihu-common.legal/.gitignore",
+				"/Users/cvbuelow/Apps/ihu-appshop/test/lib/angular/angular-mocks.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/TermsConditionService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/config/stage.json",
+				"/Users/cvbuelow/Apps/ihu-accounts-2.0/gruntfile.js",
+				"/Users/cvbuelow/Apps/ihu-common/test/spec/accountCreation/createAccount/createAccountController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common/src/accountCreation/createAccount/createAccountController.js",
+				"/Users/cvbuelow/Apps/ihu-common/test/spec/auth/authentication/authController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common/src/auth/authentication/authController.js"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Users/cvbuelow/Apps/ihu-common.legal/test",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-daemon/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/shoelace/styles",
+					"/Users/cvbuelow/Apps/ihu-appshop",
+					"/Users/cvbuelow/Apps/ihu-appshop/lib",
+					"/Users/cvbuelow/Apps/ihu-appshop/test",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/test",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop/target/emulator",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-appshop",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-common.utility/src",
+					"/Users/cvbuelow/Apps/ihu-common/src",
+					"/Users/cvbuelow/Apps/ihu-daemon/src",
+					"/Users/cvbuelow/Apps/newapp3",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps",
+					"/Users/cvbuelow/Apps/ihu-connections",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps/ihu-connections",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-connections",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps/ihu-connections"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"cancelPressedInEmailEntry",
+					"email(",
+					"email",
+					"acceptTCsFailure",
+					"documentIndex",
+					"acceptTCsFailure",
+					"reRoute",
+					"emit",
+					"reRoute",
+					"AcceptTermsService",
+					"$q",
+					"console.log",
+					"returnToSettings",
+					"emailAndCancel",
+					"onCan",
+					"index",
+					"$stateParams.index",
+					"hideModal",
+					"showEmailError",
+					"_checkDataReturned",
+					"initDeferred",
+					"legal",
+					"Messaging.app_zero.route",
+					"CLOSE_GENERAL_APP",
+					"Messaging.app_zero.CLOSE_GENERAL_APP",
+					"closeGeneralApp",
+					"checkToCloseBackgroundApps",
+					"throw new Error",
+					"exitProcess",
+					"doneProcess",
+					"setUserAcc",
+					"terms",
+					"setUserAccepted",
+					"setUserA",
+					"numPages",
+					"terms",
+					"numPages",
+					"appthumb",
+					"css",
+					"sprite",
+					"Refresh",
+					"sprite",
+					"welcome",
+					"sprite",
+					"large-button",
+					"tile",
+					"large-button",
+					"lastNameFirstLetter",
+					".EighteenCharEllipsis",
+					".tile",
+					".large-button",
+					".tile",
+					"#exit",
+					"horiz",
+					"/* @echo emulator */",
+					"gmservices",
+					"should return the response data on success",
+					"GET_GEN10_NW_STATE !!!!!!",
+					"***property to check:GET_GEN10_NW_STATE",
+					"headers",
+					"getTCsSummary",
+					"getTCsDetail",
+					"headers",
+					"vin",
+					"ResourceService",
+					"$q",
+					"ResourceService",
+					"handleError",
+					"ihuModules",
+					"indexOf",
+					"?who=Foo%20Bar&tc_hash=123456",
+					"name=",
+					"91234",
+					"ihuModules",
+					"widgets",
+					"name=",
+					"who=Foo%20Bar&",
+					"name=",
+					"name",
+					"getVehicleConfiguration",
+					"usrName",
+					"DeclineTermsService",
+					"rejectTandC",
+					"DeclineTermsController",
+					"Rout",
+					"routing",
+					"$state",
+					"getCurrentUserAuthToken",
+					"UserAppsService",
+					"isUserValid",
+					"getTCsDetail",
+					"UserAppsService",
+					"UtilityService",
+					"RoutingService",
+					"AppStartUpService",
+					"termsAndConditions?",
+					"getTCsDetail",
+					"radioType",
+					"launch-ihu",
+					"httpConfig",
+					"LoggingConfig",
+					"BackManager",
+					"styleHTML",
+					"getTCsDetailsData",
+					".button",
+					"returnStr",
+					"'",
+					"\"",
+					"'",
+					"button",
+					":",
+					";",
+					":",
+					"18px",
+					":",
+					"}",
+					" {",
+					"function",
+					"console",
+					"reject",
+					"setAuthTokenWithDevice",
+					"setActiveAuthToken",
+					"what happens when the second call to setAuthToken fails",
+					"second call to setAuthToken fails should return the failed promise",
+					"Spinner.hide()",
+					"CommUtils",
+					"AppLogger",
+					"gmserv"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"//console.log",
+					"\\'",
+					"AppsGlobalModule",
+					"_UtilityService",
+					"init",
+					"clear",
+					"init",
+					"DataWatchInterface",
+					"userInfo.js",
+					"userMap.js",
+					"userUpdate.js",
+					"templateUrl: Constants.IHU_COMMON_PATH + '",
+					"AppsGlobalModule",
+					"scope"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/cvbuelow/Apps/ihu-appshop"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/legal/termsController.js",
+							"settings":
+							{
+								"buffer_size": 2861,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1936,
+										1936
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1058.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/cvbuelow/Apps/ihu-appshop/src/global/FrameWorkWrapper.js",
+							"settings":
+							{
+								"buffer_size": 8402,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 149.0,
+								"translation.y": 3158.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 120.0
+			},
+			"position": "79 0 1168 878 0 0 1440 878 ",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 253.0,
+			"status_bar_visible": true,
+			"window_id": 171,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"decl",
+						"declineButton"
+					],
+					[
+						"back",
+						"backToDoc"
+					],
+					[
+						"get",
+						"getDocumentName"
+					],
+					[
+						"truc",
+						"truncatedEmail"
+					],
+					[
+						"ex",
+						"expect"
+					],
+					[
+						"to",
+						"toHaveBeenCalledWith"
+					],
+					[
+						"acc",
+						"AcceptTermsService"
+					],
+					[
+						"doc",
+						"docIndex"
+					],
+					[
+						"key",
+						"keyboardCancel"
+					],
+					[
+						"do",
+						"docIndex"
+					],
+					[
+						"Key",
+						"KeyboardWrapper"
+					],
+					[
+						"ac",
+						"acceptTermsByIndex"
+					],
+					[
+						"crea",
+						"createSpyObj"
+					],
+					[
+						"is",
+						"isValidEmailId"
+					],
+					[
+						"toha",
+						"toHaveBeenCalledWith"
+					],
+					[
+						"spin",
+						"Spinner"
+					],
+					[
+						"fa",
+						"failureObj"
+					],
+					[
+						"docu",
+						"documentIndex"
+					],
+					[
+						"an",
+						"angular	AngularJS"
+					],
+					[
+						"toh",
+						"toHaveBeenCalledWith"
+					],
+					[
+						"and",
+						"andReturn"
+					],
+					[
+						"toa",
+						"toHaveBeenCalledWith"
+					],
+					[
+						"exp",
+						"expect"
+					],
+					[
+						"desc",
+						"describe"
+					],
+					[
+						"dis",
+						"disableUp"
+					],
+					[
+						"$root",
+						"$rootScope	AngularJS"
+					],
+					[
+						"activ",
+						"activePage"
+					],
+					[
+						"$sta",
+						"$stateParams"
+					],
+					[
+						"dele",
+						"deleteAuthToken"
+					],
+					[
+						"gmss",
+						"gmservicesProvider"
+					],
+					[
+						"gms",
+						"gmservicesProvider"
+					],
+					[
+						"creat",
+						"createUserService"
+					],
+					[
+						"styl",
+						"styleHTML"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"tohav",
+						"toHaveBeenCalled"
+					],
+					[
+						"fail",
+						"failed"
+					],
+					[
+						"term",
+						"TermsConditionService"
+					],
+					[
+						"test",
+						"testData"
+					],
+					[
+						"Terms",
+						"TermsConditionService"
+					],
+					[
+						"$h",
+						"$httpBackend	AngularJS(DI)"
+					],
+					[
+						"$ht",
+						"$httpBackend	AngularJS"
+					],
+					[
+						"param",
+						"paramObj"
+					],
+					[
+						"$http",
+						"$httpBackend	AngularJS"
+					],
+					[
+						"user",
+						"UserAppsService"
+					],
+					[
+						"$",
+						"$compile	AngularJS"
+					],
+					[
+						"stat",
+						"mockState"
+					],
+					[
+						"exis",
+						"exitSuccessAndSetTime"
+					],
+					[
+						"mock",
+						"mockAuthCache"
+					],
+					[
+						"setc",
+						"setTCCheckTime"
+					],
+					[
+						"andCa",
+						"andCallThrough"
+					],
+					[
+						"moc",
+						"mock$state"
+					],
+					[
+						"log",
+						"logout"
+					],
+					[
+						"Authc",
+						"mockAuthCache"
+					],
+					[
+						"exi",
+						"exitSuccess"
+					],
+					[
+						"andC",
+						"andCallFake"
+					],
+					[
+						"mocks",
+						"mockState"
+					],
+					[
+						"sho",
+						"showDialog"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"init",
+						"initKeyboard"
+					],
+					[
+						"Auth",
+						"AuthUtilityService"
+					],
+					[
+						"toH",
+						"toHaveBeenCalled"
+					],
+					[
+						"vert",
+						"vertically-centered"
+					],
+					[
+						"ver",
+						"vertically-center"
+					],
+					[
+						"scro",
+						"scroll-window"
+					],
+					[
+						"para",
+						"parameters"
+					],
+					[
+						"ap",
+						"apps"
+					],
+					[
+						"num",
+						"numPages"
+					],
+					[
+						"toHave",
+						"toHaveBeenCalledWith"
+					],
+					[
+						"fir",
+						"firstNames"
+					],
+					[
+						"clear",
+						"clearVariables"
+					],
+					[
+						"$roo",
+						"$rootScope"
+					],
+					[
+						"toHa",
+						".toHaveBeenCalledWith"
+					],
+					[
+						"marg",
+						"margin-top"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"ge",
+						"getElementById"
+					],
+					[
+						"font-",
+						"font-size"
+					],
+					[
+						"med",
+						"mediumLineHeight"
+					],
+					[
+						"web",
+						"webServiceRequest"
+					],
+					[
+						"read",
+						"readFile"
+					],
+					[
+						"check",
+						"checkNonPrivilegedAccessToken"
+					],
+					[
+						"mo",
+						"mock$state"
+					],
+					[
+						"ol",
+						"old_password"
+					],
+					[
+						"ins",
+						"instanceof"
+					],
+					[
+						"serv",
+						"servicesData"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"succ",
+						"successState"
+					],
+					[
+						"suc",
+						"successState"
+					],
+					[
+						"auth",
+						"authService"
+					],
+					[
+						"spy",
+						"spyOn"
+					],
+					[
+						"Spi",
+						"mockUtilityService.Spinner.show"
+					],
+					[
+						"sp",
+						"spyOn"
+					],
+					[
+						"Con",
+						"ConnectionsApp"
+					],
+					[
+						"Ac",
+						"AccountsApp"
+					],
+					[
+						"from",
+						"fromParams"
+					],
+					[
+						"angul",
+						"angular.equals	AngularJS"
+					],
+					[
+						"cal",
+						"callbacks"
+					],
+					[
+						"$ro",
+						"$rootScope"
+					],
+					[
+						"com",
+						"gm.communication.watchForData"
+					],
+					[
+						"fram",
+						"FrameWorkWrapper"
+					],
+					[
+						"Connec",
+						"ConnectionsConstants"
+					],
+					[
+						"ws",
+						"mockWsGet"
+					],
+					[
+						"su",
+						"success"
+					],
+					[
+						"f",
+						"failure"
+					],
+					[
+						"er",
+						"errorStates"
+					],
+					[
+						"show",
+						"showDialog"
+					],
+					[
+						"mockS",
+						"mockStateParams"
+					],
+					[
+						"error",
+						"errorMsg"
+					],
+					[
+						"err",
+						"errorMsg"
+					],
+					[
+						"dev",
+						"deviceHandle"
+					],
+					[
+						"net",
+						"networkmanager"
+					],
+					[
+						"ID",
+						"ID_TOKEN"
+					],
+					[
+						"id",
+						"ID_TOKEN"
+					],
+					[
+						"retry",
+						"retryCount"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"Get",
+						"getAccount"
+					],
+					[
+						"$state",
+						"$stateParams"
+					],
+					[
+						"accou",
+						"accountCreation"
+					],
+					[
+						"of",
+						"offeringId"
+					],
+					[
+						"offer",
+						"offerId"
+					],
+					[
+						"$st",
+						"$stateParams"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/cvbuelow/play/php/multiplication.php",
+					"settings":
+					{
+						"buffer_size": 182,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/cvbuelow/play/php/anagram.php",
+					"settings":
+					{
+						"buffer_size": 587,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/cvbuelow/play/php/realpath.php",
+					"settings":
+					{
+						"buffer_size": 548,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 161.0,
+				"selected_items":
+				[
+					[
+						"jasmin",
+						"Set Syntax: Jasmine"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"mark",
+						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"removep",
+						"Package Control: Remove Package"
+					],
+					[
+						"pac",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"jshin",
+						"JSHint"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Function"
+					],
+					[
+						"",
+						"Snippet: Object Method"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 633.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/global/services/Utility.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/legalController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/legal.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/country/CountryController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/errors/ErrorManagerService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/errors/Constants.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/country/CountryController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/TermsController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/name/NameController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/common/createUserConfig.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/karma.conf.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/UserAppsService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/TermsConditionService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/AppStartUpService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/legal/termsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/test/spec/appsView/settings/legal/termsController.test.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/setup.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/index.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/utils/utils.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/drivingGuard.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/AppsDataCacheService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/httpConfigModule.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/FrameWorkWrapper.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/directives/browseAppScroll.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/services/appsVersionService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/services/appsService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/networks/choice/choiceController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/manage/manageAppsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/details/appDetailsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/browse/browseAppsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/Apps.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/lib/ihu-common.utility/src/global/directives/scroll.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/DataWatchService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/settings.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/index/index.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/test/karma.conf.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/common/appsViewConfig.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/legal/terms.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/index/indexController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/lib/ihu-common-legal/dist/ihu-common.legal.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/directives/textScroll.js",
+				"/Users/cvbuelow/Apps/ihu-daemon/src/messaging/appZero/app_zero.js",
+				"/Users/cvbuelow/Apps/ihu-daemon/src/messaging/appZero/route.js",
+				"/Users/cvbuelow/Apps/ihu-daemon/src/interfaces/DataWatchInterface.js",
+				"/Users/cvbuelow/Apps/ihu-daemon/src/messaging/messaging.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/networks/externalNetworksController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/SessionManagerService.js",
+				"/Users/cvbuelow/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/details/appDetails.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/styles/default/app.styl",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/details/screenshots/screenshots.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/lib/ihu-common.utility/src/global/directives/modal.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/bower.json",
+				"/Users/cvbuelow/Apps/ihu-appshop/gruntfile.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/browse/browseApps.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/directives/imgWithTitle.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/test/spec/Apps.test.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/test/spec/appsView/services/appsService.test.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/Config.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsDetailsController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/DeclineTermsService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/AcceptTermsService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/RoutingService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/settingsController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/frameworkServices.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/RoutingService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/index.html",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/termsDetails.html",
+				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/global/filters/unstyle.js",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/filters/unstyle.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/lib/mockgm/mockgm.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/build/lib/mockgm/mockgm.js",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/filters/stripStyle.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/DeclineTermsService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/common/createUserService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/common/createUserService.js",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/services/Utility.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsSummaryController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-keypad/keypad.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/AcceptTermsService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/build/lib/ihu-keypad/keypad.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/gruntfile.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/AcceptAndEmailTermsController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/DeclineTermsController.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/AcceptTermsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/settings.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/target/dev-unit-test/sources/lib/ihu-common-legal/ihu-common.legal.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/package.json",
+				"/Users/cvbuelow/Apps/ihu-appshop/package.json",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/services/ResourceService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/bower.json",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/country/Country.html",
+				"/Users/cvbuelow/Apps/ihu-accounts-2.0/src/home/home.html",
+				"/Users/cvbuelow/Apps/ihu-accounts-2.0/src/accounts/settings/accountSettings.html",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/Constants.js",
+				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/Config.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/config/emulator.json",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsConditionService.js",
+				"/Users/cvbuelow/.bash_profile",
+				"/Users/cvbuelow/.gitconfig",
+				"/Applications/SourceTree.app/Contents/Resources/opendiff-w.sh",
+				"/Users/cvbuelow/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/UserAppsService.test.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/UserAppsService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/RoutingService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/AppStartUpService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/lib/MockRadio.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/AppStartUpService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/home/homeController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/home/home.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/SessionManagerService.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/SessionManagerService.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/AcceptTermsController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/termsWrapper.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/termsWrapper.html",
+				"/Users/cvbuelow/Apps/ihu-connections/src/index.html",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/AcceptTermsService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/AcceptTermsController.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/global/Constant.js",
+				"/Users/cvbuelow/Apps/ihu-common.legal/.bowerrc",
+				"/Users/cvbuelow/Apps/ihu-common.legal/.gitignore",
+				"/Users/cvbuelow/Apps/ihu-appshop/test/lib/angular/angular-mocks.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/TermsConditionService.js",
+				"/Users/cvbuelow/Apps/ihu-appshop/config/stage.json",
+				"/Users/cvbuelow/Apps/ihu-accounts-2.0/gruntfile.js",
+				"/Users/cvbuelow/Apps/ihu-common/test/spec/accountCreation/createAccount/createAccountController.test.js",
+				"/Users/cvbuelow/Apps/ihu-common/src/accountCreation/createAccount/createAccountController.js"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Users/cvbuelow/Apps/ihu-common.legal/test",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-daemon/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/shoelace/styles",
+					"/Users/cvbuelow/Apps/ihu-appshop",
+					"/Users/cvbuelow/Apps/ihu-appshop/lib",
+					"/Users/cvbuelow/Apps/ihu-appshop/test",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/test",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop/target/emulator",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-appshop",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-common.utility/src",
+					"/Users/cvbuelow/Apps/ihu-common/src",
+					"/Users/cvbuelow/Apps/ihu-daemon/src",
+					"/Users/cvbuelow/Apps/newapp3",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps",
+					"/Users/cvbuelow/Apps/ihu-connections",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps/ihu-connections",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-connections",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps/ihu-connections"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"emailTCByIndex",
+					"TermsConditionService",
+					"clearVariables",
+					"initKeyboard",
+					"KeyboardWrapper",
+					"getIsNewUser",
+					"createUserService",
+					"Spinner",
+					"TermsConditionService",
+					"acceptTermsByIndex",
+					"\"",
+					"AcceptTermsService",
+					"$root",
+					"handleError",
+					"AppLogger",
+					"cancelPressedInEmailEntry",
+					"email(",
+					"email",
+					"acceptTCsFailure",
+					"documentIndex",
+					"acceptTCsFailure",
+					"reRoute",
+					"emit",
+					"reRoute",
+					"AcceptTermsService",
+					"$q",
+					"console.log",
+					"returnToSettings",
+					"emailAndCancel",
+					"onCan",
+					"index",
+					"$stateParams.index",
+					"hideModal",
+					"showEmailError",
+					"_checkDataReturned",
+					"initDeferred",
+					"legal",
+					"Messaging.app_zero.route",
+					"CLOSE_GENERAL_APP",
+					"Messaging.app_zero.CLOSE_GENERAL_APP",
+					"closeGeneralApp",
+					"checkToCloseBackgroundApps",
+					"throw new Error",
+					"exitProcess",
+					"doneProcess",
+					"setUserAcc",
+					"terms",
+					"setUserAccepted",
+					"setUserA",
+					"numPages",
+					"terms",
+					"numPages",
+					"appthumb",
+					"css",
+					"sprite",
+					"Refresh",
+					"sprite",
+					"welcome",
+					"sprite",
+					"large-button",
+					"tile",
+					"large-button",
+					"lastNameFirstLetter",
+					".EighteenCharEllipsis",
+					".tile",
+					".large-button",
+					".tile",
+					"#exit",
+					"horiz",
+					"/* @echo emulator */",
+					"gmservices",
+					"should return the response data on success",
+					"GET_GEN10_NW_STATE !!!!!!",
+					"***property to check:GET_GEN10_NW_STATE",
+					"headers",
+					"getTCsSummary",
+					"getTCsDetail",
+					"headers",
+					"vin",
+					"ResourceService",
+					"$q",
+					"ResourceService",
+					"handleError",
+					"ihuModules",
+					"indexOf",
+					"?who=Foo%20Bar&tc_hash=123456",
+					"name=",
+					"91234",
+					"ihuModules",
+					"widgets",
+					"name=",
+					"who=Foo%20Bar&",
+					"name=",
+					"name",
+					"getVehicleConfiguration",
+					"usrName",
+					"DeclineTermsService",
+					"rejectTandC",
+					"DeclineTermsController",
+					"Rout",
+					"routing",
+					"$state",
+					"getCurrentUserAuthToken",
+					"UserAppsService",
+					"isUserValid",
+					"getTCsDetail",
+					"UserAppsService",
+					"UtilityService",
+					"RoutingService",
+					"AppStartUpService",
+					"termsAndConditions?",
+					"getTCsDetail",
+					"radioType",
+					"launch-ihu",
+					"httpConfig",
+					"LoggingConfig",
+					"BackManager",
+					"styleHTML",
+					"getTCsDetailsData",
+					".button",
+					"returnStr",
+					"'",
+					"\"",
+					"'",
+					"button",
+					":",
+					";",
+					":"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"//console.log",
+					"\\'",
+					"AppsGlobalModule",
+					"_UtilityService",
+					"init",
+					"clear",
+					"init",
+					"DataWatchInterface",
+					"userInfo.js",
+					"userMap.js",
+					"userUpdate.js",
+					"templateUrl: Constants.IHU_COMMON_PATH + '",
+					"AppsGlobalModule",
+					"scope"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/cvbuelow/play/php"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/cvbuelow/play/php/multiplication.php",
+							"settings":
+							{
+								"buffer_size": 182,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										182,
+										182
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/cvbuelow/play/php/anagram.php",
+							"settings":
+							{
+								"buffer_size": 587,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/cvbuelow/play/php/realpath.php",
+							"settings":
+							{
+								"buffer_size": 548,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										447,
+										447
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 120.0
+			},
+			"position": "88 69 1168 809 0 0 1440 878 ",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 253.0,
+			"status_bar_visible": true,
+			"window_id": 173,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/cvbuelow/Apps/ihu-accounts-2.0.sublime-project",
+			"/Users/cvbuelow/apps-my14.sublime-project"
+		]
+	}
+}

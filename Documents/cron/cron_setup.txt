@@ -1,0 +1,2 @@
+0 */6 * * * /bin/sh ~cvbuelow/Documents/cron/angelus.sh
+0 * * * * /bin/sh ~cvbuelow/Documents/cron/presence.sh

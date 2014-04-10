@@ -1,0 +1,19 @@
+/*
+ * go2function default settings
+ *
+ *
+ * To set your own function patterns, do so in a Users settings file.
+ */
+
+{
+  "definitions":
+  [
+    "function $NAME$",
+    "$NAME$: function",
+    "$NAME$:function",
+    "$NAME$ = function",
+    "$NAME$= function",
+    "$NAME$=function",
+    "def $NAME$("
+  ]
+}

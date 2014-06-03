@@ -799,7 +799,8 @@
     // Sidebar rows
     {
         "class": "tree_row",
-        "layer0.texture": "Theme - Soda/Soda Dark/sidebar-row-selected.png",
+        //"layer0.texture": "Theme - Soda/Soda Dark/sidebar-row-selected.png",
+        "layer0.tint": [27, 119, 224],
         "layer0.opacity": 0.0,
         "layer0.inner_margin": [1, 1]
     },

@@ -1,0 +1,23 @@
+[
+  // Indent line after a selector
+  { "keys": ["enter"], "command": "insert_snippet", "args": { "contents": "\n\t" },
+    "context": [
+      { "key": "setting.auto_indent",   "operator": "equal",          "operand": true,                    "match_all": true },
+      { "key": "selector",              "operator": "equal",          "operand": "meta.selector.stylus",  "match_all": true },
+      { "key": "selection_empty",       "operator": "equal",          "operand": true,                    "match_all": true },
+      { "key": "auto_complete_visible", "operator": "equal",          "operand": false,                   "match_all": true },
+      {
+        "key": "preceding_text",
+        "operator": "not_regex_match",
+        "operand": "^.*,\\s*",
+        "match_all": true
+      },
+      {
+        "key": "following_text",
+        "operator": "regex_match",
+        "operand": "^\\s*$",
+        "match_all": true
+      }
+    ]
+  }
+]

@@ -1,6 +1,23 @@
 {
 	"folder_history":
 	[
+		"/Users/cvonbuel/apps/dd/DissertationDashboard-UI",
+		"/Users/cvonbuel/apps/dbui-api",
+		"/Users/cvonbuel/apps/dbui",
+		"/Users/cvonbuel/apps/me/MeProQuest-UI",
+		"/Users/cvonbuel/apps/ihu-connections/app/vendor/ihu-common.legal",
+		"/Users/cvonbuel/apps/tunnel-ssh",
+		"/Users/cvonbuel/apps/ihu-connections",
+		"/Users/cvonbuel/apps/UX-Framework",
+		"/Users/cvonbuel/apps/ng-csv",
+		"/Users/cvonbuel/apps/cmshost",
+		"/Users/cvonbuel/apps/react-tutorial",
+		"/Users/cvonbuel/apps/react/examples/todomvc-flux",
+		"/Users/cvonbuel/play/js/react-flux-todomvc",
+		"/Users/cvonbuel/apps/DissertationDashboard/DissertationDashboard-UI",
+		"/Users/cvonbuel",
+		"/Users/cvonbuel/apps/TestMe_lite",
+		"/Users/cvonbuel/Documents/cron",
 		"/Users/cvbuelow/work/js/jasmine-unit-test",
 		"/Users/cvbuelow/play/php",
 		"/Users/cvbuelow/Apps/ihu-appshop",
@@ -19,10 +36,10 @@
 		"/Users/cvbuelow/Apps/ihu-accounts-2.0",
 		"/Users/cvbuelow/Apps/ihu-accounts-2.0/dev"
 	],
-	"last_window_id": 175,
+	"last_window_id": 286,
 	"settings":
 	{
-		"new_window_height": 967.0,
+		"new_window_height": 785.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -30,2672 +47,241 @@
 				"selected_items":
 				[
 					[
-						"crea",
-						"createSpyObj"
-					],
-					[
-						"toha",
-						"toHaveBeenCalledWith"
-					],
-					[
-						"reje",
-						"rejectTandC"
-					],
-					[
-						"tohav",
-						"toHaveBeenCalledWith"
-					],
-					[
-						"decl",
-						"declineButton"
-					],
-					[
 						"back",
-						"backToDoc"
+						"background-color"
 					],
 					[
-						"get",
-						"getDocumentName"
-					],
-					[
-						"truc",
-						"truncatedEmail"
-					],
-					[
-						"ex",
-						"expect"
-					],
-					[
-						"to",
-						"toHaveBeenCalledWith"
-					],
-					[
-						"acc",
-						"AcceptTermsService"
-					],
-					[
-						"doc",
-						"docIndex"
-					],
-					[
-						"key",
-						"keyboardCancel"
-					],
-					[
-						"do",
-						"docIndex"
-					],
-					[
-						"Key",
-						"KeyboardWrapper"
-					],
-					[
-						"ac",
-						"acceptTermsByIndex"
-					],
-					[
-						"is",
-						"isValidEmailId"
-					],
-					[
-						"spin",
-						"Spinner"
-					],
-					[
-						"fa",
-						"failureObj"
-					],
-					[
-						"docu",
-						"documentIndex"
-					],
-					[
-						"an",
-						"angular	AngularJS"
-					],
-					[
-						"toh",
-						"toHaveBeenCalledWith"
-					],
-					[
-						"and",
-						"andReturn"
-					],
-					[
-						"toa",
-						"toHaveBeenCalledWith"
-					],
-					[
-						"exp",
-						"expect"
-					],
-					[
-						"desc",
-						"describe"
-					],
-					[
-						"dis",
-						"disableUp"
-					],
-					[
-						"$root",
-						"$rootScope	AngularJS"
-					],
-					[
-						"activ",
-						"activePage"
-					],
-					[
-						"$sta",
-						"$stateParams"
-					],
-					[
-						"dele",
-						"deleteAuthToken"
-					],
-					[
-						"gmss",
-						"gmservicesProvider"
-					],
-					[
-						"gms",
-						"gmservicesProvider"
-					],
-					[
-						"creat",
-						"createUserService"
-					],
-					[
-						"styl",
-						"styleHTML"
-					],
-					[
-						"list",
-						"list-style"
-					],
-					[
-						"fail",
-						"failed"
-					],
-					[
-						"term",
-						"TermsConditionService"
-					],
-					[
-						"test",
-						"testData"
-					],
-					[
-						"Terms",
-						"TermsConditionService"
-					],
-					[
-						"$h",
-						"$httpBackend	AngularJS(DI)"
-					],
-					[
-						"$ht",
-						"$httpBackend	AngularJS"
-					],
-					[
-						"param",
-						"paramObj"
-					],
-					[
-						"$http",
-						"$httpBackend	AngularJS"
-					],
-					[
-						"user",
-						"UserAppsService"
-					],
-					[
-						"$",
-						"$compile	AngularJS"
-					],
-					[
-						"stat",
-						"mockState"
-					],
-					[
-						"exis",
-						"exitSuccessAndSetTime"
-					],
-					[
-						"mock",
-						"mockAuthCache"
-					],
-					[
-						"setc",
-						"setTCCheckTime"
-					],
-					[
-						"andCa",
-						"andCallThrough"
-					],
-					[
-						"moc",
-						"mock$state"
-					],
-					[
-						"log",
-						"logout"
-					],
-					[
-						"Authc",
-						"mockAuthCache"
-					],
-					[
-						"exi",
-						"exitSuccess"
-					],
-					[
-						"andC",
-						"andCallFake"
-					],
-					[
-						"mocks",
-						"mockState"
-					],
-					[
-						"sho",
-						"showDialog"
-					],
-					[
-						"re",
-						"return"
-					],
-					[
-						"init",
-						"initKeyboard"
-					],
-					[
-						"Auth",
-						"AuthUtilityService"
-					],
-					[
-						"toH",
-						"toHaveBeenCalled"
-					],
-					[
-						"vert",
-						"vertically-centered"
-					],
-					[
-						"ver",
-						"vertically-center"
-					],
-					[
-						"scro",
-						"scroll-window"
-					],
-					[
-						"para",
-						"parameters"
-					],
-					[
-						"ap",
-						"apps"
-					],
-					[
-						"num",
-						"numPages"
-					],
-					[
-						"toHave",
-						"toHaveBeenCalledWith"
-					],
-					[
-						"fir",
-						"firstNames"
-					],
-					[
-						"clear",
-						"clearVariables"
-					],
-					[
-						"$roo",
-						"$rootScope"
-					],
-					[
-						"toHa",
-						".toHaveBeenCalledWith"
-					],
-					[
-						"marg",
-						"margin-top"
+						"showp",
+						"showSpinner"
 					],
 					[
 						"mar",
-						"margin-bottom"
-					],
-					[
-						"ge",
-						"getElementById"
-					],
-					[
-						"font-",
-						"font-size"
-					],
-					[
-						"med",
-						"mediumLineHeight"
-					],
-					[
-						"web",
-						"webServiceRequest"
-					],
-					[
-						"read",
-						"readFile"
-					],
-					[
-						"check",
-						"checkNonPrivilegedAccessToken"
-					],
-					[
-						"mo",
-						"mock$state"
-					],
-					[
-						"ol",
-						"old_password"
-					],
-					[
-						"ins",
-						"instanceof"
-					],
-					[
-						"serv",
-						"servicesData"
-					],
-					[
-						"for",
-						"for	for (…) {…}"
-					],
-					[
-						"succ",
-						"successState"
-					],
-					[
-						"suc",
-						"successState"
-					],
-					[
-						"auth",
-						"authService"
-					],
-					[
-						"spy",
-						"spyOn"
-					],
-					[
-						"Spi",
-						"mockUtilityService.Spinner.show"
-					],
-					[
-						"sp",
-						"spyOn"
-					],
-					[
-						"Con",
-						"ConnectionsApp"
-					],
-					[
-						"Ac",
-						"AccountsApp"
-					],
-					[
-						"from",
-						"fromParams"
-					],
-					[
-						"angul",
-						"angular.equals	AngularJS"
-					],
-					[
-						"cal",
-						"callbacks"
-					],
-					[
-						"$ro",
-						"$rootScope"
-					],
-					[
-						"com",
-						"gm.communication.watchForData"
-					],
-					[
-						"fram",
-						"FrameWorkWrapper"
-					],
-					[
-						"Connec",
-						"ConnectionsConstants"
-					],
-					[
-						"ws",
-						"mockWsGet"
-					],
-					[
-						"su",
-						"success"
-					],
-					[
-						"f",
-						"failure"
-					],
-					[
-						"er",
-						"errorStates"
-					],
-					[
-						"show",
-						"showDialog"
-					],
-					[
-						"mockS",
-						"mockStateParams"
-					],
-					[
-						"error",
-						"errorMsg"
-					],
-					[
-						"err",
-						"errorMsg"
-					],
-					[
-						"dev",
-						"deviceHandle"
-					],
-					[
-						"net",
-						"networkmanager"
-					],
-					[
-						"ID",
-						"ID_TOKEN"
-					],
-					[
-						"id",
-						"ID_TOKEN"
-					],
-					[
-						"retry",
-						"retryCount"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"Get",
-						"getAccount"
-					],
-					[
-						"$state",
-						"$stateParams"
-					],
-					[
-						"accou",
-						"accountCreation"
-					],
-					[
-						"of",
-						"offeringId"
-					],
-					[
-						"offer",
-						"offerId"
-					],
-					[
-						"$st",
-						"$stateParams"
-					]
-				]
-			},
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 375.0,
-				"selected_items":
-				[
-					[
-						"ma",
-						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
-					],
-					[
-						"jasmin",
-						"Set Syntax: Jasmine"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"mark",
-						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"pack",
-						"Package Control: List Packages"
-					],
-					[
-						"removep",
-						"Package Control: Remove Package"
-					],
-					[
-						"pac",
-						"Package Control: List Packages"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"jshin",
-						"JSHint"
-					],
-					[
-						"Snippet: ",
-						"Snippet: Function"
-					],
-					[
-						"",
-						"Snippet: Object Method"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: List Packages"
-					]
-				],
-				"width": 633.0
-			},
-			"console":
-			{
-				"height": 125.0
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/cvbuelow/work/js/jasmine-unit-test/readme.md",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/legalController.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/karma.conf.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/global/services/Utility.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/legal.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/country/CountryController.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/errors/ErrorManagerService.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/errors/Constants.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/country/CountryController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/TermsController.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/name/NameController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/common/createUserConfig.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/UserAppsService.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/TermsConditionService.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/AppStartUpService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/legal/termsController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/test/spec/appsView/settings/legal/termsController.test.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/setup.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/index.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/utils/utils.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/drivingGuard.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/AppsDataCacheService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/httpConfigModule.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/FrameWorkWrapper.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/directives/browseAppScroll.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/services/appsVersionService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/services/appsService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/networks/choice/choiceController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/manage/manageAppsController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/details/appDetailsController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/browse/browseAppsController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/Apps.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/lib/ihu-common.utility/src/global/directives/scroll.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/DataWatchService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/settings.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/index/index.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/test/karma.conf.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/common/appsViewConfig.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/legal/terms.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/index/indexController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/lib/ihu-common-legal/dist/ihu-common.legal.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/directives/textScroll.js",
-				"/Users/cvbuelow/Apps/ihu-daemon/src/messaging/appZero/app_zero.js",
-				"/Users/cvbuelow/Apps/ihu-daemon/src/messaging/appZero/route.js",
-				"/Users/cvbuelow/Apps/ihu-daemon/src/interfaces/DataWatchInterface.js",
-				"/Users/cvbuelow/Apps/ihu-daemon/src/messaging/messaging.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/networks/externalNetworksController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/SessionManagerService.js",
-				"/Users/cvbuelow/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/details/appDetails.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/styles/default/app.styl",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/details/screenshots/screenshots.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/lib/ihu-common.utility/src/global/directives/modal.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/bower.json",
-				"/Users/cvbuelow/Apps/ihu-appshop/gruntfile.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/browse/browseApps.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/directives/imgWithTitle.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/test/spec/Apps.test.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/test/spec/appsView/services/appsService.test.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/Config.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsDetailsController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/DeclineTermsService.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/AcceptTermsService.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/RoutingService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/settingsController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/frameworkServices.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/RoutingService.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/index.html",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/termsDetails.html",
-				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/global/filters/unstyle.js",
-				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/filters/unstyle.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/lib/mockgm/mockgm.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/build/lib/mockgm/mockgm.js",
-				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/filters/stripStyle.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/DeclineTermsService.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/common/createUserService.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/common/createUserService.js",
-				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/services/Utility.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsSummaryController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-keypad/keypad.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/AcceptTermsService.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/build/lib/ihu-keypad/keypad.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/gruntfile.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/AcceptAndEmailTermsController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/DeclineTermsController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/AcceptTermsController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/settings.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/target/dev-unit-test/sources/lib/ihu-common-legal/ihu-common.legal.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/package.json",
-				"/Users/cvbuelow/Apps/ihu-appshop/package.json",
-				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/services/ResourceService.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/bower.json",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/country/Country.html",
-				"/Users/cvbuelow/Apps/ihu-accounts-2.0/src/home/home.html",
-				"/Users/cvbuelow/Apps/ihu-accounts-2.0/src/accounts/settings/accountSettings.html",
-				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/Constants.js",
-				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/Config.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/config/emulator.json",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsConditionService.js",
-				"/Users/cvbuelow/.bash_profile",
-				"/Users/cvbuelow/.gitconfig",
-				"/Applications/SourceTree.app/Contents/Resources/opendiff-w.sh",
-				"/Users/cvbuelow/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/UserAppsService.test.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/UserAppsService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/RoutingService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/AppStartUpService.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/lib/MockRadio.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/AppStartUpService.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/home/homeController.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/home/home.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/SessionManagerService.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/SessionManagerService.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/AcceptTermsController.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/termsWrapper.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/termsWrapper.html",
-				"/Users/cvbuelow/Apps/ihu-connections/src/index.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/AcceptTermsService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/AcceptTermsController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/Constant.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/.bowerrc",
-				"/Users/cvbuelow/Apps/ihu-common.legal/.gitignore",
-				"/Users/cvbuelow/Apps/ihu-appshop/test/lib/angular/angular-mocks.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/TermsConditionService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/config/stage.json",
-				"/Users/cvbuelow/Apps/ihu-accounts-2.0/gruntfile.js",
-				"/Users/cvbuelow/Apps/ihu-common/test/spec/accountCreation/createAccount/createAccountController.test.js"
-			],
-			"find":
-			{
-				"height": 38.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-					"/Users/cvbuelow/Apps/ihu-common.legal/test",
-					"/Users/cvbuelow/Apps/ihu-common.legal/src",
-					"/Users/cvbuelow/Apps/ihu-appshop/src",
-					"/Users/cvbuelow/Apps/ihu-daemon/src",
-					"/Users/cvbuelow/Apps/ihu-common.legal/src",
-					"/Users/cvbuelow/Apps/ihu-appshop/src",
-					"/Users/cvbuelow/Apps/ihu-common.legal/src",
-					"/Users/cvbuelow/Apps/ihu-appshop/src",
-					"/Users/cvbuelow/Apps/shoelace/styles",
-					"/Users/cvbuelow/Apps/ihu-appshop",
-					"/Users/cvbuelow/Apps/ihu-appshop/lib",
-					"/Users/cvbuelow/Apps/ihu-appshop/test",
-					"/Users/cvbuelow/Apps/ihu-appshop/src",
-					"/Users/cvbuelow/Apps/ihu-common.legal/src",
-					"/Users/cvbuelow/Apps/ihu-common.legal/test",
-					"/Users/cvbuelow/Apps/ihu-common.legal/src",
-					"/Users/cvbuelow/Apps/ihu-appshop/target/emulator",
-					"/Users/cvbuelow/Apps/ihu-appshop/src",
-					"/Users/cvbuelow/Apps/ihu-common.legal/src",
-					"/Users/cvbuelow/Apps/ihu-common.legal/",
-					"/Users/cvbuelow/Apps/ihu-common.legal/src",
-					"/Users/cvbuelow/Apps/ihu-appshop",
-					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
-					"/Users/cvbuelow/Apps/ihu-appshop",
-					"/Users/cvbuelow/Apps/ihu-appshop/src",
-					"/Users/cvbuelow/Apps/ihu-common.utility/src",
-					"/Users/cvbuelow/Apps/ihu-common/src",
-					"/Users/cvbuelow/Apps/ihu-daemon/src",
-					"/Users/cvbuelow/Apps/newapp3",
-					"/Users/cvbuelow/Apps/ihu-common",
-					"/Users/cvbuelow/Apps",
-					"/Users/cvbuelow/Apps/ihu-connections",
-					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
-					"/Users/cvbuelow/Apps/ihu-common",
-					"/Users/cvbuelow/Apps/ihu-connections",
-					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
-					"/Users/cvbuelow/Apps/ihu-common",
-					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
-					"/Users/cvbuelow/Apps/ihu-common",
-					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
-					"/Users/cvbuelow/Apps/ihu-connections",
-					"/Users/cvbuelow/Apps/ihu-common",
-					"/Users/cvbuelow/Apps/ihu-connections"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"DeclineTermsService",
-					"emailTCByIndex",
-					"TermsConditionService",
-					"clearVariables",
-					"initKeyboard",
-					"KeyboardWrapper",
-					"getIsNewUser",
-					"createUserService",
-					"Spinner",
-					"TermsConditionService",
-					"acceptTermsByIndex",
-					"\"",
-					"AcceptTermsService",
-					"$root",
-					"handleError",
-					"AppLogger",
-					"cancelPressedInEmailEntry",
-					"email(",
-					"email",
-					"acceptTCsFailure",
-					"documentIndex",
-					"acceptTCsFailure",
-					"reRoute",
-					"emit",
-					"reRoute",
-					"AcceptTermsService",
-					"$q",
-					"console.log",
-					"returnToSettings",
-					"emailAndCancel",
-					"onCan",
-					"index",
-					"$stateParams.index",
-					"hideModal",
-					"showEmailError",
-					"_checkDataReturned",
-					"initDeferred",
-					"legal",
-					"Messaging.app_zero.route",
-					"CLOSE_GENERAL_APP",
-					"Messaging.app_zero.CLOSE_GENERAL_APP",
-					"closeGeneralApp",
-					"checkToCloseBackgroundApps",
-					"throw new Error",
-					"exitProcess",
-					"doneProcess",
-					"setUserAcc",
-					"terms",
-					"setUserAccepted",
-					"setUserA",
-					"numPages",
-					"terms",
-					"numPages",
-					"appthumb",
-					"css",
-					"sprite",
-					"Refresh",
-					"sprite",
-					"welcome",
-					"sprite",
-					"large-button",
-					"tile",
-					"large-button",
-					"lastNameFirstLetter",
-					".EighteenCharEllipsis",
-					".tile",
-					".large-button",
-					".tile",
-					"#exit",
-					"horiz",
-					"/* @echo emulator */",
-					"gmservices",
-					"should return the response data on success",
-					"GET_GEN10_NW_STATE !!!!!!",
-					"***property to check:GET_GEN10_NW_STATE",
-					"headers",
-					"getTCsSummary",
-					"getTCsDetail",
-					"headers",
-					"vin",
-					"ResourceService",
-					"$q",
-					"ResourceService",
-					"handleError",
-					"ihuModules",
-					"indexOf",
-					"?who=Foo%20Bar&tc_hash=123456",
-					"name=",
-					"91234",
-					"ihuModules",
-					"widgets",
-					"name=",
-					"who=Foo%20Bar&",
-					"name=",
-					"name",
-					"getVehicleConfiguration",
-					"usrName",
-					"DeclineTermsService",
-					"rejectTandC",
-					"DeclineTermsController",
-					"Rout",
-					"routing",
-					"$state",
-					"getCurrentUserAuthToken",
-					"UserAppsService",
-					"isUserValid",
-					"getTCsDetail",
-					"UserAppsService",
-					"UtilityService",
-					"RoutingService",
-					"AppStartUpService",
-					"termsAndConditions?",
-					"getTCsDetail",
-					"radioType",
-					"launch-ihu",
-					"httpConfig",
-					"LoggingConfig",
-					"BackManager",
-					"styleHTML",
-					"getTCsDetailsData",
-					".button",
-					"returnStr",
-					"'",
-					"\"",
-					"'",
-					"button",
-					":",
-					";"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"//console.log",
-					"\\'",
-					"AppsGlobalModule",
-					"_UtilityService",
-					"init",
-					"clear",
-					"init",
-					"DataWatchInterface",
-					"userInfo.js",
-					"userMap.js",
-					"userUpdate.js",
-					"templateUrl: Constants.IHU_COMMON_PATH + '",
-					"AppsGlobalModule",
-					"scope"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 35.0
-			},
-			"input":
-			{
-				"height": 35.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 120.0
-			},
-			"replace":
-			{
-				"height": 66.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"selected_items":
-				[
-				],
-				"width": 380.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 253.0,
-			"status_bar_visible": true
-		},
-		"new_window_width": 1168.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"dele",
-						"deleteAuthTokenSuccess"
-					],
-					[
-						"getus",
-						"getUserDeviceTableSuccess"
-					],
-					[
-						"migr",
-						"migrationNeeded"
-					],
-					[
-						"toha",
-						"toHaveBeenCalledWith"
-					],
-					[
-						"setv",
-						"setVin"
-					],
-					[
-						"setvh",
-						"setVehicleType"
-					],
-					[
-						"crea",
-						"createSpyObj"
-					],
-					[
-						"reje",
-						"rejectTandC"
-					],
-					[
-						"tohav",
-						"toHaveBeenCalledWith"
-					],
-					[
-						"decl",
-						"declineButton"
-					],
-					[
-						"back",
-						"backToDoc"
-					],
-					[
-						"get",
-						"getDocumentName"
-					],
-					[
-						"truc",
-						"truncatedEmail"
-					],
-					[
-						"ex",
-						"expect"
-					],
-					[
-						"to",
-						"toHaveBeenCalledWith"
-					],
-					[
-						"acc",
-						"AcceptTermsService"
-					],
-					[
-						"doc",
-						"docIndex"
-					],
-					[
-						"key",
-						"keyboardCancel"
-					],
-					[
-						"do",
-						"docIndex"
-					],
-					[
-						"Key",
-						"KeyboardWrapper"
-					],
-					[
-						"ac",
-						"acceptTermsByIndex"
-					],
-					[
-						"is",
-						"isValidEmailId"
-					],
-					[
-						"spin",
-						"Spinner"
-					],
-					[
-						"fa",
-						"failureObj"
-					],
-					[
-						"docu",
-						"documentIndex"
-					],
-					[
-						"an",
-						"angular	AngularJS"
-					],
-					[
-						"toh",
-						"toHaveBeenCalledWith"
-					],
-					[
-						"and",
-						"andReturn"
-					],
-					[
-						"toa",
-						"toHaveBeenCalledWith"
-					],
-					[
-						"exp",
-						"expect"
-					],
-					[
-						"desc",
-						"describe"
-					],
-					[
-						"dis",
-						"disableUp"
-					],
-					[
-						"$root",
-						"$rootScope	AngularJS"
-					],
-					[
-						"activ",
-						"activePage"
-					],
-					[
-						"$sta",
-						"$stateParams"
-					],
-					[
-						"gmss",
-						"gmservicesProvider"
-					],
-					[
-						"gms",
-						"gmservicesProvider"
-					],
-					[
-						"creat",
-						"createUserService"
-					],
-					[
-						"styl",
-						"styleHTML"
-					],
-					[
-						"list",
-						"list-style"
-					],
-					[
-						"fail",
-						"failed"
-					],
-					[
-						"term",
-						"TermsConditionService"
-					],
-					[
-						"test",
-						"testData"
-					],
-					[
-						"Terms",
-						"TermsConditionService"
-					],
-					[
-						"$h",
-						"$httpBackend	AngularJS(DI)"
-					],
-					[
-						"$ht",
-						"$httpBackend	AngularJS"
-					],
-					[
-						"param",
-						"paramObj"
-					],
-					[
-						"$http",
-						"$httpBackend	AngularJS"
-					],
-					[
-						"user",
-						"UserAppsService"
-					],
-					[
-						"$",
-						"$compile	AngularJS"
-					],
-					[
-						"stat",
-						"mockState"
-					],
-					[
-						"exis",
-						"exitSuccessAndSetTime"
-					],
-					[
-						"mock",
-						"mockAuthCache"
-					],
-					[
-						"setc",
-						"setTCCheckTime"
-					],
-					[
-						"andCa",
-						"andCallThrough"
-					],
-					[
-						"moc",
-						"mock$state"
-					],
-					[
-						"log",
-						"logout"
-					],
-					[
-						"Authc",
-						"mockAuthCache"
-					],
-					[
-						"exi",
-						"exitSuccess"
-					],
-					[
-						"andC",
-						"andCallFake"
-					],
-					[
-						"mocks",
-						"mockState"
-					],
-					[
-						"sho",
-						"showDialog"
-					],
-					[
-						"re",
-						"return"
-					],
-					[
-						"init",
-						"initKeyboard"
-					],
-					[
-						"Auth",
-						"AuthUtilityService"
-					],
-					[
-						"toH",
-						"toHaveBeenCalled"
-					],
-					[
-						"vert",
-						"vertically-centered"
-					],
-					[
-						"ver",
-						"vertically-center"
-					],
-					[
-						"scro",
-						"scroll-window"
-					],
-					[
-						"para",
-						"parameters"
-					],
-					[
-						"ap",
-						"apps"
-					],
-					[
-						"num",
-						"numPages"
-					],
-					[
-						"toHave",
-						"toHaveBeenCalledWith"
-					],
-					[
-						"fir",
-						"firstNames"
-					],
-					[
-						"clear",
-						"clearVariables"
-					],
-					[
-						"$roo",
-						"$rootScope"
-					],
-					[
-						"toHa",
-						".toHaveBeenCalledWith"
+						"margin-left"
 					],
 					[
 						"marg",
+						"margin-left"
+					],
+					[
+						"lef",
+						"leftMenu"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"viz",
+						"viz-chart-container"
+					],
+					[
+						"data",
+						"databaseId"
+					],
+					[
+						"databa",
+						"databaseId"
+					],
+					[
+						"api",
+						"API"
+					],
+					[
+						"ref",
+						"referer"
+					],
+					[
+						"des",
+						"desc	describe"
+					],
+					[
+						"pro",
+						"provide"
+					],
+					[
+						"route",
+						"$routeParams	AngularJS"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"padd",
+						"padding-bottom"
+					],
+					[
+						"margin",
 						"margin-top"
 					],
 					[
-						"mar",
-						"margin-bottom"
+						"A",
+						"AO"
 					],
 					[
-						"ge",
-						"getElementById"
+						"respon",
+						"responses"
 					],
 					[
-						"font-",
-						"font-size"
+						"in",
+						"institutionId"
 					],
 					[
-						"med",
-						"mediumLineHeight"
+						"de",
+						"delimiter"
 					],
 					[
-						"web",
-						"webServiceRequest"
+						"Scop",
+						"$scope	AngularJS"
 					],
 					[
-						"read",
-						"readFile"
+						"htp",
+						"$httpBackend	AngularJS"
 					],
 					[
-						"check",
-						"checkNonPrivilegedAccessToken"
+						"$rou",
+						"$routeParams	AngularJS"
 					],
 					[
-						"mo",
-						"mock$state"
+						"$loca",
+						"$location	AngularJS"
 					],
 					[
-						"ol",
-						"old_password"
+						"univ",
+						"UNIVERSITY_GROUPS"
 					],
 					[
-						"ins",
-						"instanceof"
+						"$coo",
+						"$cookieStore	AngularJS"
 					],
 					[
-						"serv",
-						"servicesData"
+						"valu",
+						"valueLabelWidth"
 					],
 					[
-						"for",
-						"for	for (…) {…}"
+						"con",
+						"containerWidth"
 					],
 					[
-						"succ",
-						"successState"
+						"inli",
+						"inline-block"
 					],
 					[
-						"suc",
-						"successState"
+						"bac",
+						"background-color"
+					],
+					[
+						"max",
+						"max-height"
+					],
+					[
+						"tabl",
+						"table-scroll"
+					],
+					[
+						"$routc",
+						"$routeChangeStart	AngularJS (E)"
+					],
+					[
+						"au",
+						"authorizedRoles"
+					],
+					[
+						"Au",
+						"AUTH_EVENTS"
+					],
+					[
+						"sesion",
+						"Session"
 					],
 					[
 						"auth",
-						"authService"
+						"authenticated"
 					],
 					[
-						"spy",
-						"spyOn"
+						"strok",
+						"stroke-width"
 					],
 					[
-						"Spi",
-						"mockUtilityService.Spinner.show"
+						"add",
+						"addText"
 					],
 					[
-						"sp",
-						"spyOn"
+						"uni",
+						"university"
 					],
 					[
-						"Con",
-						"ConnectionsApp"
+						"selec",
+						"selectAll"
 					],
 					[
-						"Ac",
-						"AccountsApp"
+						"text",
+						"text-decoration"
 					],
 					[
-						"from",
-						"fromParams"
+						"bars",
+						"barsContainer"
 					],
 					[
-						"angul",
-						"angular.equals	AngularJS"
+						"subj",
+						"subjectOptions"
 					],
 					[
-						"cal",
-						"callbacks"
-					],
-					[
-						"$ro",
-						"$rootScope"
-					],
-					[
-						"com",
-						"gm.communication.watchForData"
-					],
-					[
-						"fram",
-						"FrameWorkWrapper"
-					],
-					[
-						"Connec",
-						"ConnectionsConstants"
-					],
-					[
-						"ws",
-						"mockWsGet"
+						"filter",
+						"filteroptions"
 					],
 					[
 						"su",
-						"success"
+						"subjects"
 					],
 					[
-						"f",
-						"failure"
+						"p",
+						"passportLocal"
 					],
 					[
-						"er",
-						"errorStates"
+						"pass",
+						"passport-local"
 					],
 					[
-						"show",
-						"showDialog"
+						"bod",
+						"bodyParser"
 					],
 					[
-						"mockS",
-						"mockStateParams"
+						"cook",
+						"cookieParser"
 					],
 					[
-						"error",
-						"errorMsg"
+						"body",
+						"body-parser"
 					],
 					[
-						"err",
-						"errorMsg"
+						"cooki",
+						"cookie-parser"
 					],
 					[
-						"dev",
-						"deviceHandle"
+						"popu",
+						"popularsubjects"
 					],
 					[
-						"net",
-						"networkmanager"
+						"conta",
+						"containerWidth"
 					],
 					[
-						"ID",
-						"ID_TOKEN"
+						"fil",
+						"filterOptions"
 					],
 					[
-						"id",
-						"ID_TOKEN"
+						"$loc",
+						"$location	AngularJS"
 					],
 					[
-						"retry",
-						"retryCount"
+						"http",
+						"$httpBackend	AngularJS"
 					],
 					[
-						"fun",
-						"function"
+						"root",
+						"$rootScope	AngularJS"
 					],
-					[
-						"Get",
-						"getAccount"
-					],
-					[
-						"$state",
-						"$stateParams"
-					],
-					[
-						"accou",
-						"accountCreation"
-					],
-					[
-						"of",
-						"offeringId"
-					],
-					[
-						"offer",
-						"offerId"
-					],
-					[
-						"$st",
-						"$stateParams"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsDetailsController.js",
-					"settings":
-					{
-						"buffer_size": 4587,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/cvbuelow/Apps/ihu-common.legal/gruntfile.js",
-					"settings":
-					{
-						"buffer_size": 3417,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/cvbuelow/Apps/ihu-common.legal/bower.json",
-					"settings":
-					{
-						"buffer_size": 1059,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/cvbuelow/Apps/ihu-common.legal/.bowerrc",
-					"settings":
-					{
-						"buffer_size": 147,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 161.0,
-				"selected_items":
-				[
-					[
-						"jasmin",
-						"Set Syntax: Jasmine"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"mark",
-						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"pack",
-						"Package Control: List Packages"
-					],
-					[
-						"removep",
-						"Package Control: Remove Package"
-					],
-					[
-						"pac",
-						"Package Control: List Packages"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"jshin",
-						"JSHint"
-					],
-					[
-						"Snippet: ",
-						"Snippet: Function"
-					],
-					[
-						"",
-						"Snippet: Object Method"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: List Packages"
-					]
-				],
-				"width": 633.0
-			},
-			"console":
-			{
-				"height": 125.0
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/TermsDetailsController.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/RoutingService.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/UserAppsService.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/UserAppsService.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/AppStartUpService.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/readme.md",
-				"/Users/cvbuelow/work/js/jasmine-unit-test/readme.md",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/legalController.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/karma.conf.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/global/services/Utility.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/legal.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/country/CountryController.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/errors/ErrorManagerService.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/errors/Constants.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/country/CountryController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/TermsController.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/name/NameController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/common/createUserConfig.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/TermsConditionService.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/AppStartUpService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/legal/termsController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/test/spec/appsView/settings/legal/termsController.test.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/setup.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/index.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/utils/utils.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/drivingGuard.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/AppsDataCacheService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/httpConfigModule.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/FrameWorkWrapper.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/directives/browseAppScroll.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/services/appsVersionService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/services/appsService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/networks/choice/choiceController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/manage/manageAppsController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/details/appDetailsController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/browse/browseAppsController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/Apps.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/lib/ihu-common.utility/src/global/directives/scroll.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/DataWatchService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/settings.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/index/index.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/test/karma.conf.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/common/appsViewConfig.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/legal/terms.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/index/indexController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/lib/ihu-common-legal/dist/ihu-common.legal.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/directives/textScroll.js",
-				"/Users/cvbuelow/Apps/ihu-daemon/src/messaging/appZero/app_zero.js",
-				"/Users/cvbuelow/Apps/ihu-daemon/src/messaging/appZero/route.js",
-				"/Users/cvbuelow/Apps/ihu-daemon/src/interfaces/DataWatchInterface.js",
-				"/Users/cvbuelow/Apps/ihu-daemon/src/messaging/messaging.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/networks/externalNetworksController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/SessionManagerService.js",
-				"/Users/cvbuelow/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/details/appDetails.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/styles/default/app.styl",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/details/screenshots/screenshots.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/lib/ihu-common.utility/src/global/directives/modal.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/bower.json",
-				"/Users/cvbuelow/Apps/ihu-appshop/gruntfile.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/browse/browseApps.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/directives/imgWithTitle.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/test/spec/Apps.test.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/test/spec/appsView/services/appsService.test.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/Config.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsDetailsController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/DeclineTermsService.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/AcceptTermsService.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/RoutingService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/settingsController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/frameworkServices.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/index.html",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/termsDetails.html",
-				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/global/filters/unstyle.js",
-				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/filters/unstyle.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/lib/mockgm/mockgm.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/build/lib/mockgm/mockgm.js",
-				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/filters/stripStyle.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/DeclineTermsService.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/common/createUserService.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/common/createUserService.js",
-				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/services/Utility.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsSummaryController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-keypad/keypad.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/AcceptTermsService.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/build/lib/ihu-keypad/keypad.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/gruntfile.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/AcceptAndEmailTermsController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/DeclineTermsController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/AcceptTermsController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/settings.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/target/dev-unit-test/sources/lib/ihu-common-legal/ihu-common.legal.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/package.json",
-				"/Users/cvbuelow/Apps/ihu-appshop/package.json",
-				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/services/ResourceService.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/bower.json",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/country/Country.html",
-				"/Users/cvbuelow/Apps/ihu-accounts-2.0/src/home/home.html",
-				"/Users/cvbuelow/Apps/ihu-accounts-2.0/src/accounts/settings/accountSettings.html",
-				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/Constants.js",
-				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/Config.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/config/emulator.json",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsConditionService.js",
-				"/Users/cvbuelow/.bash_profile",
-				"/Users/cvbuelow/.gitconfig",
-				"/Applications/SourceTree.app/Contents/Resources/opendiff-w.sh",
-				"/Users/cvbuelow/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/UserAppsService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/RoutingService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/AppStartUpService.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/lib/MockRadio.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/home/homeController.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/home/home.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/SessionManagerService.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/SessionManagerService.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/AcceptTermsController.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/termsWrapper.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/termsWrapper.html",
-				"/Users/cvbuelow/Apps/ihu-connections/src/index.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/AcceptTermsService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/AcceptTermsController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/Constant.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/.bowerrc",
-				"/Users/cvbuelow/Apps/ihu-common.legal/.gitignore",
-				"/Users/cvbuelow/Apps/ihu-appshop/test/lib/angular/angular-mocks.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/TermsConditionService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/config/stage.json"
-			],
-			"find":
-			{
-				"height": 38.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-					"/Users/cvbuelow/Apps/ihu-common.legal/test",
-					"/Users/cvbuelow/Apps/ihu-common.legal/src",
-					"/Users/cvbuelow/Apps/ihu-appshop/src",
-					"/Users/cvbuelow/Apps/ihu-daemon/src",
-					"/Users/cvbuelow/Apps/ihu-common.legal/src",
-					"/Users/cvbuelow/Apps/ihu-appshop/src",
-					"/Users/cvbuelow/Apps/ihu-common.legal/src",
-					"/Users/cvbuelow/Apps/ihu-appshop/src",
-					"/Users/cvbuelow/Apps/shoelace/styles",
-					"/Users/cvbuelow/Apps/ihu-appshop",
-					"/Users/cvbuelow/Apps/ihu-appshop/lib",
-					"/Users/cvbuelow/Apps/ihu-appshop/test",
-					"/Users/cvbuelow/Apps/ihu-appshop/src",
-					"/Users/cvbuelow/Apps/ihu-common.legal/src",
-					"/Users/cvbuelow/Apps/ihu-common.legal/test",
-					"/Users/cvbuelow/Apps/ihu-common.legal/src",
-					"/Users/cvbuelow/Apps/ihu-appshop/target/emulator",
-					"/Users/cvbuelow/Apps/ihu-appshop/src",
-					"/Users/cvbuelow/Apps/ihu-common.legal/src",
-					"/Users/cvbuelow/Apps/ihu-common.legal/",
-					"/Users/cvbuelow/Apps/ihu-common.legal/src",
-					"/Users/cvbuelow/Apps/ihu-appshop",
-					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
-					"/Users/cvbuelow/Apps/ihu-appshop",
-					"/Users/cvbuelow/Apps/ihu-appshop/src",
-					"/Users/cvbuelow/Apps/ihu-common.utility/src",
-					"/Users/cvbuelow/Apps/ihu-common/src",
-					"/Users/cvbuelow/Apps/ihu-daemon/src",
-					"/Users/cvbuelow/Apps/newapp3",
-					"/Users/cvbuelow/Apps/ihu-common",
-					"/Users/cvbuelow/Apps",
-					"/Users/cvbuelow/Apps/ihu-connections",
-					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
-					"/Users/cvbuelow/Apps/ihu-common",
-					"/Users/cvbuelow/Apps/ihu-connections",
-					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
-					"/Users/cvbuelow/Apps/ihu-common",
-					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
-					"/Users/cvbuelow/Apps/ihu-common",
-					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
-					"/Users/cvbuelow/Apps/ihu-connections",
-					"/Users/cvbuelow/Apps/ihu-common",
-					"/Users/cvbuelow/Apps/ihu-connections"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"networkmanager",
-					"deleteAuthToken",
-					"deleteApp",
-					"appsForUser",
-					"adduserApp",
-					"appmanager",
-					"activeAuthBeforeMig",
-					"connectedDevice",
-					"setAuthTokenNoDevice",
-					"gmservices",
-					"UtilityService",
-					"DeclineTermsService",
-					"emailTCByIndex",
-					"TermsConditionService",
-					"clearVariables",
-					"initKeyboard",
-					"KeyboardWrapper",
-					"getIsNewUser",
-					"createUserService",
-					"Spinner",
-					"TermsConditionService",
-					"acceptTermsByIndex",
-					"\"",
-					"AcceptTermsService",
-					"$root",
-					"handleError",
-					"AppLogger",
-					"cancelPressedInEmailEntry",
-					"email(",
-					"email",
-					"acceptTCsFailure",
-					"documentIndex",
-					"acceptTCsFailure",
-					"reRoute",
-					"emit",
-					"reRoute",
-					"AcceptTermsService",
-					"$q",
-					"console.log",
-					"returnToSettings",
-					"emailAndCancel",
-					"onCan",
-					"index",
-					"$stateParams.index",
-					"hideModal",
-					"showEmailError",
-					"_checkDataReturned",
-					"initDeferred",
-					"legal",
-					"Messaging.app_zero.route",
-					"CLOSE_GENERAL_APP",
-					"Messaging.app_zero.CLOSE_GENERAL_APP",
-					"closeGeneralApp",
-					"checkToCloseBackgroundApps",
-					"throw new Error",
-					"exitProcess",
-					"doneProcess",
-					"setUserAcc",
-					"terms",
-					"setUserAccepted",
-					"setUserA",
-					"numPages",
-					"terms",
-					"numPages",
-					"appthumb",
-					"css",
-					"sprite",
-					"Refresh",
-					"sprite",
-					"welcome",
-					"sprite",
-					"large-button",
-					"tile",
-					"large-button",
-					"lastNameFirstLetter",
-					".EighteenCharEllipsis",
-					".tile",
-					".large-button",
-					".tile",
-					"#exit",
-					"horiz",
-					"/* @echo emulator */",
-					"gmservices",
-					"should return the response data on success",
-					"GET_GEN10_NW_STATE !!!!!!",
-					"***property to check:GET_GEN10_NW_STATE",
-					"headers",
-					"getTCsSummary",
-					"getTCsDetail",
-					"headers",
-					"vin",
-					"ResourceService",
-					"$q",
-					"ResourceService",
-					"handleError",
-					"ihuModules",
-					"indexOf",
-					"?who=Foo%20Bar&tc_hash=123456",
-					"name=",
-					"91234",
-					"ihuModules",
-					"widgets",
-					"name=",
-					"who=Foo%20Bar&",
-					"name=",
-					"name",
-					"getVehicleConfiguration",
-					"usrName",
-					"DeclineTermsService",
-					"rejectTandC",
-					"DeclineTermsController",
-					"Rout",
-					"routing",
-					"$state",
-					"getCurrentUserAuthToken",
-					"UserAppsService",
-					"isUserValid",
-					"getTCsDetail",
-					"UserAppsService",
-					"UtilityService",
-					"RoutingService",
-					"AppStartUpService",
-					"termsAndConditions?",
-					"getTCsDetail",
-					"radioType",
-					"launch-ihu",
-					"httpConfig",
-					"LoggingConfig"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"//console.log",
-					"\\'",
-					"AppsGlobalModule",
-					"_UtilityService",
-					"init",
-					"clear",
-					"init",
-					"DataWatchInterface",
-					"userInfo.js",
-					"userMap.js",
-					"userUpdate.js",
-					"templateUrl: Constants.IHU_COMMON_PATH + '",
-					"AppsGlobalModule",
-					"scope"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"path": "/Users/cvbuelow/Apps/ihu-common.legal"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 3,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsDetailsController.js",
-							"settings":
-							{
-								"buffer_size": 4587,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										4204,
-										4204
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"bh_regions":
-									[
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close"
-									],
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"gjslint_ignore":
-									[
-										110.0
-									],
-									"gjslint_options":
-									[
-									],
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2.0,
-									"sublimelinter_disable":
-									[
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": true,
-									"sublimelinter_gutter_marks_theme": "simple",
-									"sublimelinter_mark_style": "none",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Users/cvbuelow/Apps/ihu-common.legal/gruntfile.js",
-							"settings":
-							{
-								"buffer_size": 3417,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"bh_regions":
-									[
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close"
-									],
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"gjslint_ignore":
-									[
-										110.0
-									],
-									"gjslint_options":
-									[
-									],
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2.0,
-									"sublimelinter_disable":
-									[
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": true,
-									"sublimelinter_gutter_marks_theme": "simple",
-									"sublimelinter_mark_style": "none",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 2135.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/Users/cvbuelow/Apps/ihu-common.legal/bower.json",
-							"settings":
-							{
-								"buffer_size": 1059,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										939,
-										939
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"bh_regions":
-									[
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close"
-									],
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"gjslint_ignore":
-									[
-										110.0
-									],
-									"gjslint_options":
-									[
-									],
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2.0,
-									"sublimelinter_disable":
-									[
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": true,
-									"sublimelinter_gutter_marks_theme": "simple",
-									"sublimelinter_mark_style": "none",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/Users/cvbuelow/Apps/ihu-common.legal/.bowerrc",
-							"settings":
-							{
-								"buffer_size": 147,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										147,
-										147
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"bh_regions":
-									[
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close"
-									],
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"gjslint_ignore":
-									[
-										110.0
-									],
-									"gjslint_options":
-									[
-									],
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2.0,
-									"sublimelinter_disable":
-									[
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": true,
-									"sublimelinter_gutter_marks_theme": "simple",
-									"sublimelinter_mark_style": "none",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 35.0
-			},
-			"input":
-			{
-				"height": 35.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 120.0
-			},
-			"position": "53 69 1168 989 0 0 1920 1058 ",
-			"replace":
-			{
-				"height": 66.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"selected_items":
-				[
-				],
-				"width": 380.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 253.0,
-			"status_bar_visible": true,
-			"window_id": 169,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
 					[
 						"doc",
 						"docIndex"
@@ -2909,10 +495,6 @@
 						"vertically-center"
 					],
 					[
-						"back",
-						"background"
-					],
-					[
 						"scro",
 						"scroll-window"
 					],
@@ -2957,14 +539,6 @@
 						".toHaveBeenCalledWith"
 					],
 					[
-						"marg",
-						"margin-top"
-					],
-					[
-						"mar",
-						"margin-bottom"
-					],
-					[
 						"ge",
 						"getElementById"
 					],
@@ -2983,192 +557,9 @@
 					[
 						"read",
 						"readFile"
-					],
-					[
-						"check",
-						"checkNonPrivilegedAccessToken"
-					],
-					[
-						"mo",
-						"mock$state"
-					],
-					[
-						"ol",
-						"old_password"
-					],
-					[
-						"ins",
-						"instanceof"
-					],
-					[
-						"serv",
-						"servicesData"
-					],
-					[
-						"for",
-						"for	for (…) {…}"
-					],
-					[
-						"succ",
-						"successState"
-					],
-					[
-						"suc",
-						"successState"
-					],
-					[
-						"auth",
-						"authService"
-					],
-					[
-						"spy",
-						"spyOn"
-					],
-					[
-						"Spi",
-						"mockUtilityService.Spinner.show"
-					],
-					[
-						"sp",
-						"spyOn"
-					],
-					[
-						"Con",
-						"ConnectionsApp"
-					],
-					[
-						"Ac",
-						"AccountsApp"
-					],
-					[
-						"from",
-						"fromParams"
-					],
-					[
-						"angul",
-						"angular.equals	AngularJS"
-					],
-					[
-						"cal",
-						"callbacks"
-					],
-					[
-						"$ro",
-						"$rootScope"
-					],
-					[
-						"com",
-						"gm.communication.watchForData"
-					],
-					[
-						"fram",
-						"FrameWorkWrapper"
-					],
-					[
-						"Connec",
-						"ConnectionsConstants"
-					],
-					[
-						"ws",
-						"mockWsGet"
-					],
-					[
-						"su",
-						"success"
-					],
-					[
-						"f",
-						"failure"
-					],
-					[
-						"er",
-						"errorStates"
-					],
-					[
-						"show",
-						"showDialog"
-					],
-					[
-						"mockS",
-						"mockStateParams"
-					],
-					[
-						"error",
-						"errorMsg"
-					],
-					[
-						"err",
-						"errorMsg"
-					],
-					[
-						"dev",
-						"deviceHandle"
-					],
-					[
-						"net",
-						"networkmanager"
-					],
-					[
-						"ID",
-						"ID_TOKEN"
-					],
-					[
-						"id",
-						"ID_TOKEN"
-					],
-					[
-						"retry",
-						"retryCount"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"Get",
-						"getAccount"
-					],
-					[
-						"$state",
-						"$stateParams"
-					],
-					[
-						"accou",
-						"accountCreation"
-					],
-					[
-						"of",
-						"offeringId"
-					],
-					[
-						"offer",
-						"offerId"
-					],
-					[
-						"$st",
-						"$stateParams"
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/Users/cvbuelow/Apps/ihu-appshop/src/Apps.js",
-					"settings":
-					{
-						"buffer_size": 6391,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/cvbuelow/Apps/ihu-appshop/bower.json",
-					"settings":
-					{
-						"buffer_size": 1060,
-						"line_ending": "Unix"
-					}
-				}
-			],
 			"build_system": "",
 			"command_palette":
 			{
@@ -3176,24 +567,60 @@
 				"selected_items":
 				[
 					[
-						"jasmin",
-						"Set Syntax: Jasmine"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
+						"git bl",
+						"Git: Blame"
 					],
 					[
 						"mark",
-						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ma",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mar",
+						"Markdown Preview: Preview in Browser"
 					],
 					[
 						"inst",
 						"Package Control: Install Package"
 					],
 					[
+						"bla",
+						"Git: Blame"
+					],
+					[
+						"js",
+						"Set Syntax: JSON"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
 						"pack",
 						"Package Control: List Packages"
+					],
+					[
+						"git ",
+						"Git: Blame"
+					],
+					[
+						"git",
+						"Git: Blame"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"git b",
+						"Git: Blame"
+					],
+					[
+						"jasmin",
+						"Set Syntax: Jasmine"
 					],
 					[
 						"removep",
@@ -3228,7 +655,7 @@
 						"Package Control: List Packages"
 					]
 				],
-				"width": 633.0
+				"width": 579.0
 			},
 			"console":
 			{
@@ -3245,134 +672,134 @@
 			},
 			"file_history":
 			[
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/about/aboutController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/index/indexController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/common/appsViewConfig.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/directives/browseAppScroll.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/browse/browseAppsController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/networkfailure/networkFailureController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/resetUserService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/details/appDetailsController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/networks/choice/choiceController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/FrameWorkWrapper.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/manage/manageAppsController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/services/appsVersionService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/services/appsService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/httpConfigModule.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/DataWatchService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/settings.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/AppsDataCacheService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/legal/termsController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/common/createUserConfig.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/country/CountryController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/karma.conf.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/UserAppsService.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/TermsController.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/country/CountryController.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/TermsConditionService.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/AppStartUpService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/test/spec/appsView/settings/legal/termsController.test.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/setup.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/index.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/utils/utils.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/drivingGuard.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/networks/choice/choiceController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/Apps.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/lib/ihu-common.utility/src/global/directives/scroll.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/index/index.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/test/karma.conf.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/legal/terms.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/lib/ihu-common-legal/dist/ihu-common.legal.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/directives/textScroll.js",
-				"/Users/cvbuelow/Apps/ihu-daemon/src/messaging/appZero/app_zero.js",
-				"/Users/cvbuelow/Apps/ihu-daemon/src/messaging/appZero/route.js",
-				"/Users/cvbuelow/Apps/ihu-daemon/src/interfaces/DataWatchInterface.js",
-				"/Users/cvbuelow/Apps/ihu-daemon/src/messaging/messaging.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/networks/externalNetworksController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/SessionManagerService.js",
-				"/Users/cvbuelow/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/details/appDetails.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/styles/default/app.styl",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/details/screenshots/screenshots.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/lib/ihu-common.utility/src/global/directives/modal.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/bower.json",
-				"/Users/cvbuelow/Apps/ihu-appshop/gruntfile.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/browse/browseApps.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/directives/imgWithTitle.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/test/spec/Apps.test.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/test/spec/appsView/services/appsService.test.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/Config.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsDetailsController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/DeclineTermsService.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/AcceptTermsService.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/RoutingService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/settingsController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/frameworkServices.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/RoutingService.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/index.html",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/termsDetails.html",
-				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/global/filters/unstyle.js",
-				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/filters/unstyle.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/lib/mockgm/mockgm.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/build/lib/mockgm/mockgm.js",
-				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/filters/stripStyle.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/DeclineTermsService.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/common/createUserService.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/common/createUserService.js",
-				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/services/Utility.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsSummaryController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-keypad/keypad.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/global/services/Utility.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/lib/ihu-common.utility/src/errors/ErrorManagerService.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/legal.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/AcceptTermsService.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/build/lib/ihu-keypad/keypad.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/gruntfile.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/AcceptAndEmailTermsController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/DeclineTermsController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/AcceptTermsController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/appsView/settings/settings.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/target/dev-unit-test/sources/lib/ihu-common-legal/ihu-common.legal.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/package.json",
-				"/Users/cvbuelow/Apps/ihu-appshop/package.json",
-				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/services/ResourceService.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/bower.json",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/country/Country.html",
-				"/Users/cvbuelow/Apps/ihu-accounts-2.0/src/home/home.html",
-				"/Users/cvbuelow/Apps/ihu-accounts-2.0/src/accounts/settings/accountSettings.html",
-				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/Constants.js",
-				"/Users/cvbuelow/Apps/ihu-common.utility/src/global/Config.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/config/emulator.json",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/TermsConditionService.js",
-				"/Users/cvbuelow/.bash_profile",
-				"/Users/cvbuelow/.gitconfig",
-				"/Applications/SourceTree.app/Contents/Resources/opendiff-w.sh",
-				"/Users/cvbuelow/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/UserAppsService.test.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/UserAppsService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/RoutingService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/services/AppStartUpService.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/lib/MockRadio.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/AppStartUpService.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/home/homeController.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/home/home.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/services/SessionManagerService.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/services/SessionManagerService.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/test/spec/createUser/terms/AcceptTermsController.test.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/name/NameController.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/src/createUser/terms/termsWrapper.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/termsWrapper.html",
-				"/Users/cvbuelow/Apps/ihu-connections/src/index.html",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/AcceptTermsService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/AcceptTermsController.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/global/Constant.js",
-				"/Users/cvbuelow/Apps/ihu-common.legal/.bowerrc",
-				"/Users/cvbuelow/Apps/ihu-common.legal/.gitignore",
-				"/Users/cvbuelow/Apps/ihu-appshop/test/lib/angular/angular-mocks.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/src/createUser/terms/TermsConditionService.js",
-				"/Users/cvbuelow/Apps/ihu-appshop/config/stage.json",
-				"/Users/cvbuelow/Apps/ihu-accounts-2.0/gruntfile.js"
+				"/Users/cvonbuel/apps/dbui/app/styles/main.scss",
+				"/Users/cvonbuel/apps/dbui/app/scripts/databases/databases.html",
+				"/Users/cvonbuel/apps/dbui/app/scripts/login/login.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/common/directives/chart-page.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/package.json",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/app.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/admin/manage-users/manage-users-service.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/vizcharts/world-map-directive.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/vizcharts/horizontal-bar-chart-directive.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/vizcharts/line-chart-directive.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/popular-subjects/popular-subjects.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/popular-dissertations/popular-dissertations.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/country-usage/country-usage.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/usage-comparison/usage-comparison.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/usage-trend/usage-trend.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/bower_components/angular-loading-bar/build/loading-bar.css",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/usage-comparison/usage-comparison.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/VizCtrlTest.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/schools-usage/schools-usage.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/vizcharts/line-chart-directive.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/vizcharts/world-map-directive.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/vizcharts/filters-directive.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/directives/chart-page.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/controllers/GlobalNavBar.tpl.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/admin/manage-users/create/create.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/common/directives/menu.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/directives/menu.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/dashboard/dashboard.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/styles/main.css",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/vizcharts/horizontal-bar-chart-directive.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/index.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/bower_components/angular-loading-bar/build/loading-bar.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/coverage/PhantomJS 1.9.7 (Mac OS X)/lcov-report/scripts/common/directives/menu.js.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/admin/my-university-groups.tpl.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/admin/my-university-groups.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/admin/manage-users/manage-users.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/admin/manage-users/manage-users.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/country-usage/country-usage.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/data/worldmap.json",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/data/world-country-names.json",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/bower_components/topojson/topojson.js",
+				"/Users/cvonbuel/apps/dbui-api/start.js",
+				"/Users/cvonbuel/apps/dbui-api/ssh-test.js",
+				"/Users/cvonbuel/apps/dbui-api/node_modules/mysql/lib/Connection.js",
+				"/Users/cvonbuel/apps/UX-Framework/node_modules/grunt-concurrent/tasks/concurrent.js",
+				"/Users/cvonbuel/apps/UX-Framework/site-resources/css/src/uxf-site.css",
+				"/Users/cvonbuel/apps/UX-Framework/src/js/browerspecific.js",
+				"/Users/cvonbuel/apps/UX-Framework/dist/js/uxframework.min.js",
+				"/Users/cvonbuel/apps/UX-Framework/package.json",
+				"/Users/cvonbuel/apps/UX-Framework/src/js/selectbox.js",
+				"/Users/cvonbuel/apps/UX-Framework/site-html/includes/uikit-basictemplate.html",
+				"/Users/cvonbuel/apps/UX-Framework/site-html/includes/scripts.html",
+				"/Users/cvonbuel/apps/UX-Framework/site-html/includes/head.html",
+				"/Users/cvonbuel/apps/UX-Framework/site-html/about.html",
+				"/Users/cvonbuel/apps/UX-Framework/site-html/includes/navbar.html",
+				"/Users/cvonbuel/apps/UX-Framework/README.md",
+				"/Users/cvonbuel/apps/UX-Framework/site-html/uikit.html",
+				"/Users/cvonbuel/apps/UX-Framework/site-html/includes/uikit-gettingstarted.html",
+				"/Users/cvonbuel/apps/UX-Framework/site-html/includes/uikit-basicstructure.html",
+				"/Users/cvonbuel/apps/UX-Framework/src/uxframework/less/brand-colors.less",
+				"/Users/cvonbuel/apps/UX-Framework/uikit.html",
+				"/Users/cvonbuel/apps/UX-Framework/dist/src/uxframework/less/uxframework-blue.less",
+				"/Users/cvonbuel/apps/UX-Framework/about.html",
+				"/Users/cvonbuel/apps/UX-Framework/components.html",
+				"/Users/cvonbuel/apps/UX-Framework/contact.html",
+				"/Users/cvonbuel/apps/UX-Framework/examples.html",
+				"/Users/cvonbuel/apps/UX-Framework/guidelines.html",
+				"/Users/cvonbuel/apps/UX-Framework/index.html",
+				"/Users/cvonbuel/apps/UX-Framework/src/uxframework/less/uxframework-blue.less",
+				"/Users/cvonbuel/apps/UX-Framework/src/uxframework/less/uxframework-green.less",
+				"/Users/cvonbuel/apps/UX-Framework/src/uxframework/less/uxframework-olive.less",
+				"/Users/cvonbuel/apps/UX-Framework/src/uxframework/less/uxframework-purple.less",
+				"/Users/cvonbuel/apps/UX-Framework/src/uxframework/less/uxframework-teal.less",
+				"/Users/cvonbuel/apps/UX-Framework/src/uxframework/less/variables.less",
+				"/Users/cvonbuel/apps/UX-Framework/download/proquest-uikit-1.0.0.zip",
+				"/Users/cvonbuel/apps/UX-Framework/.gitignore",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/common/directives/commonDirectives.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/admin/manage-users/create/create.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/vizcharts/subjects-modal-ctrl.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/directives/commonDirectives.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/login/login.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/controllers/GlobalFooter.tpl.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/common/directives/dashboard-chart.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/directives/dashboard-chart.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/common/services/auth.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/services/auth.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/karma.conf.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/vizcharts/filters-directive.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/admin/manage-users/manage-users.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/vizcharts/filters-directive.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/Gruntfile.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/help/help.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/admin/manage-users/create/create.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/alerts/alerts-service.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/common/filters/commonFilters.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/filters/commonFilters.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/services/session.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/login/login.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/controllers/GlobalNavBarCtrl.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/logging/ui-logging.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/mock.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/admin/my-university-groups.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/common/controllers/GlobalNavBarCtrl.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/help/help.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/help/help.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/styles/uxframework.css",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/dist/scripts/login/login.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/vizcharts/filtersSelectSubjects.tpl.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/usage-trend/usage-trend.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/vizcharts/viz-service.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/vizcharts/viz-service.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/directives/dashboard-chart.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/directives/chart-page.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/popular-dissertations/popular-dissertations.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/popular-subjects/popular-subjects.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/schools-usage/schools-usage.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/usage-comparison/usage-comparison.html",
+				"/Users/cvonbuel/Downloads/D-DashHelp.docx/DDashHelp.docx.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/dashboard/dashboard.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/vizcharts/filters-print-directive.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/bower_components/autofill-event/src/autofill-event.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/vizcharts/filters-print-directive.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/common/alerts/alerts-service.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/vizcharts/print-filters-directive.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/mock/banner.json",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/controllers/BannerMessage.tpl.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/controllers/BannerMessageController.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/services/BannerMessageService.js"
 			],
 			"find":
 			{
@@ -3380,9 +807,36 @@
 			},
 			"find_in_files":
 			{
-				"height": 98.0,
+				"height": 0.0,
 				"where_history":
 				[
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts",
+					"/Users/cvonbuel/apps/UX-Framework",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app",
+					"/Users/cvonbuel/apps/ng-csv/src/ng-csv",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app",
+					"/Users/cvonbuel/apps/me/MeProQuest-UI",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test",
+					"/Users/cvonbuel/apps/DissertationDashboard/DissertationDashboard-UI/test",
+					"/Users/cvonbuel/apps/DissertationDashboard/DissertationDashboard-UI/app/scripts",
+					"/Users/cvonbuel/apps/DissertationDashboard/DissertationDashboard-UI/app",
+					"/Users/cvonbuel/apps/DissertationDashboard/DissertationDashboard-UI/test",
+					"/Users/cvonbuel/apps/DissertationDashboard/DissertationDashboard-UI/app/scripts",
+					"/Users/cvonbuel/apps/DissertationDashboard/DissertationDashboard-UI/app/",
+					"/Users/cvonbuel/apps/DissertationDashboard/DissertationDashboard-UI/app/scripts",
+					"/Users/cvonbuel/apps/DissertationDashboard/DissertationDashboard-UI/scripts",
+					"/Users/cvonbuel/apps/DissertationDashboard/DissertationDashboard-UI/test",
+					"/Users/cvonbuel/apps/DissertationDashboard/DissertationDashboard-UI/app/scripts",
+					"./",
 					"/Users/cvbuelow/Apps/ihu-common.legal/src",
 					"/Users/cvbuelow/Apps/ihu-common.legal/test",
 					"/Users/cvbuelow/Apps/ihu-common.legal/src",
@@ -3434,134 +888,1746 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"charAt",
-					"$state",
-					"content",
-					"networkWatchID",
-					"CLASS_TAG",
-					"oldIndex",
-					"appsService",
-					"$state",
-					"CLASS_TAG",
-					"wifiDevice",
-					"watchNwListener",
-					"$state",
-					"UtilityService",
-					"getFilePath",
-					"vehicleType",
-					"$timeout",
-					"thenify",
-					"$timeout",
-					"enrolledDataFlagFilePath",
-					"enrolledData",
-					"createShortMethodsWithData",
-					"name",
-					"names",
+					"tables",
+					"databaseId",
+					"useminPrepare",
+					"connect",
+					"html2js",
+					"tmp",
+					"concat",
+					"uglify",
+					".tmp/concat",
+					".tmp/concat/scripts",
+					"html2",
+					"pq-horizontal-bar-chart",
+					"<pq-horizontal-bar-chart data=\"data\" />",
+					"border-r",
+					"viz-chart",
+					"spinner",
+					"navbar-brand",
+					"#leftMenu",
+					"eqheight",
+					"<menu>",
+					"@media",
+					"768px",
+					"#leftMenu",
+					"eqheight",
+					".spinner-icon",
+					".chart",
+					".path",
+					"$size",
+					"$color",
+					"rights",
+					"tooltipText",
+					"-99",
+					"displayName",
+					"database",
+					"databaseId",
+					"database",
+					"Database",
+					"database",
+					"err",
+					"self.connection",
+					"2",
+					"cssmin",
+					"less",
+					"olive",
+					"green",
+					"blue",
+					"minConfig",
+					"less",
+					"blue",
+					"less",
+					"clean",
+					"watch:site",
+					"htmlTMP",
+					"site-html/tmp",
+					"site-html/tmp/",
+					"site-html/tmp",
+					"htmlTMP",
+					"uglify",
+					"copy",
+					"uxf-1.0.0",
+					"\n  ",
+					"uxf-1.0.0",
+					"\n        ",
+					"uxf-1.0.0",
+					"h4",
+					"span",
+					"uxframework/",
+					"'\n",
+					"uxframework/",
+					"clean",
+					"connect",
+					"liver",
+					"connect",
+					"n",
+					"src/uxframework",
+					"dist/dist",
+					"uxfCSS",
+					"less:min",
+					"rename",
+					"<%= pkg.name %>-<%= pkg.version %>/",
+					"importsTMP",
+					" // Then loads UXF styles",
+					"                    // Files to be concatenated / minified into Blue dist CSS\n                    //'src/uxframework/tmp/imports.css', // Loads fonts imports FIRST\n                    //'bower_components/bootstrap/dist/css/bootstrap.css', // Then loads Bootstrap styles\n",
+					"/tmp",
+					"tmp",
+					"less",
+					"less:",
+					"imports",
+					"rename",
+					"src/bootstrap/",
+					"bootstrap/",
+					"last",
+					"Error",
+					"subjectsModalCancel",
+					"createNewUser",
+					"touched",
+					"controller",
+					"touched",
+					"globalnavbar",
+					"GlobalNavBar",
+					"globalnavbar",
+					"invalidPubRange",
+					"invalidUsageRange",
+					"$location",
+					"array",
+					"$modalInstance",
+					"ManageUsersCtrl",
+					"enableUser",
+					"disableuser",
+					"disableUser",
+					"GET",
+					"$document",
+					"open",
+					"openHelp",
+					"goToAccount",
+					"$location",
+					"a",
+					"!isHelp",
+					"help",
+					"#/help",
+					" du-smooth-scroll du-scrollspy",
+					"du-smooth-scroll",
+					" du-scrollspy=\"about\"",
+					".nav ",
+					"active",
+					"h3",
+					"h4",
+					"h3"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"dist",
+					"",
+					"//console.log",
+					"\\'",
+					"AppsGlobalModule",
+					"_UtilityService",
+					"init",
+					"clear",
+					"init",
+					"DataWatchInterface",
+					"userInfo.js",
+					"userMap.js",
+					"userUpdate.js",
+					"templateUrl: Constants.IHU_COMMON_PATH + '",
+					"AppsGlobalModule",
+					"scope"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 120.0
+			},
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"ap",
+						"app/scripts/app.js"
+					],
+					[
+						"acc",
+						"app/scripts/home/account-details.html"
+					],
+					[
+						"ind",
+						"app/index.html"
+					],
+					[
+						"pack",
+						"package.json"
+					],
+					[
+						"grun",
+						"Gruntfile.js"
+					],
+					[
+						"pops",
+						"app/scripts/popular-subjects/popular-subjects.js"
+					],
+					[
+						"managser",
+						"app/scripts/admin/manage-users/manage-users-service.js"
+					],
+					[
+						"app",
+						"app/scripts/app.js"
+					],
+					[
+						"linsp",
+						"test/spec/vizcharts/line-chart-directive.spec.js"
+					],
+					[
+						"worspe",
+						"test/spec/vizcharts/world-map-directive.spec.js"
+					],
+					[
+						"horsp",
+						"test/spec/vizcharts/horizontal-bar-chart-directive.spec.js"
+					],
+					[
+						"usagespe",
+						"test/spec/usage-comparison/usage-comparison.spec.js"
+					],
+					[
+						"tesctrl",
+						"test/spec/VizCtrlTest.js"
+					],
+					[
+						"loading",
+						"app/bower_components/angular-loading-bar/build/loading-bar.css"
+					],
+					[
+						"usagetr",
+						"app/scripts/usage-trend/usage-trend.js"
+					],
+					[
+						"usage",
+						"app/scripts/usage-comparison/usage-comparison.js"
+					],
+					[
+						"scho",
+						"app/scripts/schools-usage/schools-usage.js"
+					],
+					[
+						"line",
+						"app/scripts/vizcharts/line-chart-directive.js"
+					],
+					[
+						"wor",
+						"app/scripts/vizcharts/world-map-directive.js"
+					],
+					[
+						"usacou",
+						"app/scripts/country-usage/country-usage.js"
+					],
+					[
+						"popdi",
+						"app/scripts/popular-dissertations/popular-dissertations.js"
+					],
+					[
+						"chart",
+						"app/scripts/common/directives/chart-page.html"
+					],
+					[
+						"filters",
+						"app/scripts/vizcharts/filters-directive.js"
+					],
+					[
+						"hori",
+						"app/scripts/vizcharts/horizontal-bar-chart-directive.js"
+					],
+					[
+						"main",
+						"app/styles/main.css"
+					],
+					[
+						"global",
+						"app/scripts/common/controllers/GlobalNavBar.tpl.html"
+					],
+					[
+						"create",
+						"app/scripts/admin/manage-users/create/create.html"
+					],
+					[
+						"mensp",
+						"test/spec/common/directives/menu.spec.js"
+					],
+					[
+						"men",
+						"app/scripts/common/directives/menu.js"
+					],
+					[
+						"menu",
+						"test/coverage/PhantomJS 1.9.7 (Mac OS X)/lcov-report/scripts/common/directives/menu.js.html"
+					],
+					[
+						"char",
+						"app/scripts/common/directives/chart-page.html"
+					],
+					[
+						"my",
+						"app/scripts/admin/my-university-groups.tpl.html"
+					],
+					[
+						"pa",
+						"package.json"
+					],
+					[
+						"commdsp",
+						"test/spec/common/directives/commonDirectives.spec.js"
+					],
+					[
+						"gru",
+						"Gruntfile.js"
+					],
+					[
+						"creatspe",
+						"test/spec/admin/manage-users/create/create.spec.js"
+					],
+					[
+						"commondsp",
+						"test/spec/common/directives/commonDirectives.spec.js"
+					],
+					[
+						"alerts",
+						"app/scripts/common/alerts/alerts-service.js"
+					],
+					[
+						"aler",
+						"dist/scripts/common/alerts/alerts-directive.html"
+					],
+					[
+						"filterdisp",
+						"test/spec/vizcharts/filters-directive.spec.js"
+					],
+					[
+						"commond",
+						"app/scripts/common/directives/commonDirectives.js"
+					],
+					[
+						"logi",
+						"app/scripts/login/login.html"
+					],
+					[
+						"globa",
+						"app/scripts/common/controllers/GlobalFooter.tpl.html"
+					],
+					[
+						"authsp",
+						"test/spec/common/services/auth.spec.js"
+					],
+					[
+						"auth",
+						"app/scripts/common/services/auth.js"
+					],
+					[
+						"dash",
+						"app/scripts/common/directives/dashboard-chart.html"
+					],
+					[
+						"manausp",
+						"test/spec/admin/manage-users/manage-users.spec.js"
+					],
+					[
+						"filter",
+						"app/scripts/vizcharts/filters-directive.html"
+					],
+					[
+						"grunt",
+						"Gruntfile.js"
+					],
+					[
+						"karm",
+						"karma.conf.js"
+					],
+					[
+						"lin",
+						"app/scripts/vizcharts/line-chart-directive.js"
+					],
+					[
+						"kar",
+						"karma.conf.js"
+					],
+					[
+						"help",
+						"app/scripts/help/help.html"
+					],
+					[
+						"sess",
+						"app/scripts/common/services/session.js"
+					],
+					[
+						"mana",
+						"app/scripts/admin/manage-users/manage-users-service.js"
+					],
+					[
+						"alert",
+						"app/scripts/common/alerts/alerts-service.js"
+					],
+					[
+						"login",
+						"app/scripts/login/login.js"
+					],
+					[
+						"crea",
+						"app/scripts/admin/manage-users/create/create.js"
+					],
+					[
+						"com",
+						"app/scripts/common/filters/commonFilters.js"
+					],
+					[
+						"manasp",
+						"test/spec/admin/manage-users/manage-users.spec.js"
+					],
+					[
+						"manauss",
+						"app/scripts/admin/manage-users/manage-users-service.js"
+					],
+					[
+						"mock",
+						"test/spec/mock.js"
+					],
+					[
+						"common",
+						"app/scripts/common/filters/commonFilters.js"
+					],
+					[
+						"manag",
+						"app/scripts/admin/manage-users/manage-users.html"
+					],
+					[
+						"mysp",
+						"test/spec/admin/my-university-groups.spec.js"
+					],
+					[
+						"vizt",
+						"test/spec/VizCtrlTest.js"
+					],
+					[
+						"globspec",
+						"test/spec/common/controllers/GlobalNavBarCtrl.spec.js"
+					],
+					[
+						"footer",
+						"app/scripts/common/controllers/GlobalFooter.tpl.html"
+					],
+					[
+						"globalspec",
+						"test/spec/common/controllers/GlobalNavBarCtrl.spec.js"
+					],
+					[
+						"ux",
+						"app/styles/uxframework.css"
+					],
+					[
+						"inde",
+						"app/index.html"
+					],
+					[
+						"nav",
+						"app/scripts/common/controllers/GlobalNavBar.tpl.html"
+					],
+					[
+						"glob",
+						"app/scripts/common/controllers/GlobalNavBar.tpl.html"
+					],
+					[
+						"linech",
+						"test/spec/vizcharts/line-chart-directive.spec.js"
+					],
+					[
+						"log",
+						"dist/scripts/login/login.html"
+					],
+					[
+						"myu",
+						"app/scripts/admin/my-university-groups.tpl.html"
+					],
+					[
+						"creh",
+						"app/scripts/admin/manage-users/create/create.html"
+					],
+					[
+						"filtersse",
+						"app/scripts/vizcharts/filtersSelectSubjects.tpl.html"
+					],
+					[
+						"viz",
+						"app/scripts/vizcharts/viz-service.js"
+					],
+					[
+						"man",
+						"app/scripts/admin/manage-users/manage-users.html"
+					],
+					[
+						"hor",
+						"test/spec/vizcharts/horizontal-bar-chart-directive.spec.js"
+					],
+					[
+						"vizspe",
+						"test/spec/vizcharts/viz-service.spec.js"
+					],
+					[
+						"worl",
+						"app/scripts/vizcharts/world-map-directive.js"
+					],
+					[
+						"unisp",
+						"test/spec/admin/my-university-groups.spec.js"
+					],
+					[
+						"vizss",
+						"test/spec/vizcharts/viz-service.spec.js"
+					],
+					[
+						"lpopdi",
+						"app/scripts/popular-dissertations/popular-dissertations.html"
+					],
+					[
+						"popsu",
+						"app/scripts/popular-subjects/popular-subjects.html"
+					],
+					[
+						"pop",
+						"app/scripts/popular-dissertations/popular-dissertations.html"
+					],
+					[
+						"foote",
+						"app/scripts/common/controllers/GlobalFooter.tpl.html"
+					],
+					[
+						"globana",
+						"app/scripts/common/controllers/GlobalNavBarCtrl.js"
+					],
+					[
+						"alerss",
+						"test/spec/common/alerts/alerts-service.spec.js"
+					],
+					[
+						"unsup",
+						"app/unsupported-browser.js"
+					],
+					[
+						"bann",
+						"app/mock/banner.json"
+					],
+					[
+						"unsu",
+						"app/unsupported-browser.js"
+					],
+					[
+						"vi",
+						"app/scripts/vizcharts/viz-service.js"
+					],
+					[
+						"charp",
+						"app/scripts/common/directives/chart-page.js"
+					],
+					[
+						"logsp",
+						"test/spec/login/login.spec.js"
+					],
+					[
+						"login.j",
+						"app/scripts/login/login.js"
+					],
+					[
+						"creat",
+						"app/scripts/admin/manage-users/create/create.js"
+					],
+					[
+						"logisp",
+						"test/spec/login/login.spec.js"
+					],
+					[
+						"uni",
+						"app/scripts/admin/my-university-groups.js"
+					],
+					[
+						"filtersub",
+						"app/scripts/vizcharts/filtersSelectSubjects.tpl.html"
+					],
+					[
+						"globna",
+						"app/scripts/common/controllers/GlobalNavBar.tpl.html"
+					],
+					[
+						"popdis",
+						"app/scripts/popular-dissertations/popular-dissertations.html"
+					],
+					[
+						"popdisssp",
+						"test/spec/popular-dissertations/popular-dissertations.spec.js"
+					],
+					[
+						"chartp",
+						"app/scripts/common/directives/chart-page.js"
+					],
+					[
+						"popsusp",
+						"test/spec/popular-subjects/popular-subjects.spec.js"
+					],
+					[
+						"popsub",
+						"app/scripts/popular-subjects/popular-subjects.js"
+					],
+					[
+						"usagecomspe",
+						"test/spec/usage-comparison/usage-comparison.spec.js"
+					],
+					[
+						"usatre",
+						"app/scripts/usage-trend/usage-trend.js"
+					],
+					[
+						"pro",
+						"app/scripts/common/services/Profile.js"
+					],
+					[
+						"authspe",
+						"test/spec/common/services/auth.spec.js"
+					],
+					[
+						"vizser",
+						"app/scripts/vizcharts/viz-service.js"
+					],
+					[
+						"cou",
+						"app/scripts/country-usage/country-usage.html"
+					],
+					[
+						"usagetre",
+						"app/scripts/usage-trend/usage-trend.js"
+					],
+					[
+						"world",
+						"app/scripts/vizcharts/world-map-directive.js"
+					],
+					[
+						"usacomsp",
+						"test/spec/usage-comparison/usage-comparison.spec.js"
+					],
+					[
+						"usacosp",
+						"test/spec/usage-comparison/usage-comparison.spec.js"
+					],
+					[
+						"usa",
+						"app/scripts/usage-comparison/usage-comparison.js"
+					],
+					[
+						"popsp",
+						"test/spec/popular-dissertations/popular-dissertations.spec.js"
+					],
+					[
+						"popdisp",
+						"test/spec/popular-dissertations/popular-dissertations.spec.js"
+					],
+					[
+						"usschsp",
+						"test/spec/schools-usage/schools-usage.spec.js"
+					],
+					[
+						"usasch",
+						"app/scripts/schools-usage/schools-usage.js"
+					],
+					[
+						"couusp",
+						"test/spec/country-usage/country-usage.spec.js"
+					],
+					[
+						"usagecou",
+						"app/scripts/country-usage/country-usage.js"
+					],
+					[
+						"popsubspe",
+						"test/spec/popular-subjects/popular-subjects.spec.js"
+					],
+					[
+						"usage-trendspe",
+						"test/spec/usage-trend/usage-trend.spec.js"
+					],
+					[
+						"vizspec",
+						"test/spec/vizcharts/viz-service.spec.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 275.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 991.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"wid",
+						"width"
+					],
+					[
+						"border-ri",
+						"border-right-width"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"is",
+						"isInternalAccount"
+					],
+					[
+						"load",
+						"loading-spinner"
+					],
+					[
+						"backgrou",
+						"background-size"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"showp",
+						"showSpinner"
+					],
+					[
+						"mar",
+						"margin-left"
+					],
+					[
+						"marg",
+						"margin-left"
+					],
+					[
+						"lef",
+						"leftMenu"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"viz",
+						"viz-chart-container"
+					],
+					[
+						"data",
+						"databaseId"
+					],
+					[
+						"databa",
+						"databaseId"
+					],
+					[
+						"api",
+						"API"
+					],
+					[
+						"ref",
+						"referer"
+					],
+					[
+						"des",
+						"desc	describe"
+					],
+					[
+						"pro",
+						"provide"
+					],
+					[
+						"route",
+						"$routeParams	AngularJS"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"padd",
+						"padding-bottom"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"A",
+						"AO"
+					],
+					[
+						"respon",
+						"responses"
+					],
+					[
+						"in",
+						"institutionId"
+					],
+					[
+						"de",
+						"delimiter"
+					],
+					[
+						"Scop",
+						"$scope	AngularJS"
+					],
+					[
+						"htp",
+						"$httpBackend	AngularJS"
+					],
+					[
+						"$rou",
+						"$routeParams	AngularJS"
+					],
+					[
+						"$loca",
+						"$location	AngularJS"
+					],
+					[
+						"univ",
+						"UNIVERSITY_GROUPS"
+					],
+					[
+						"$coo",
+						"$cookieStore	AngularJS"
+					],
+					[
+						"valu",
+						"valueLabelWidth"
+					],
+					[
+						"con",
+						"containerWidth"
+					],
+					[
+						"inli",
+						"inline-block"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"max",
+						"max-height"
+					],
+					[
+						"tabl",
+						"table-scroll"
+					],
+					[
+						"$routc",
+						"$routeChangeStart	AngularJS (E)"
+					],
+					[
+						"au",
+						"authorizedRoles"
+					],
+					[
+						"Au",
+						"AUTH_EVENTS"
+					],
+					[
+						"sesion",
+						"Session"
+					],
+					[
+						"auth",
+						"authenticated"
+					],
+					[
+						"strok",
+						"stroke-width"
+					],
+					[
+						"add",
+						"addText"
+					],
+					[
+						"uni",
+						"university"
+					],
+					[
+						"selec",
+						"selectAll"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"bars",
+						"barsContainer"
+					],
+					[
+						"subj",
+						"subjectOptions"
+					],
+					[
+						"filter",
+						"filteroptions"
+					],
+					[
+						"su",
+						"subjects"
+					],
+					[
+						"p",
+						"passportLocal"
+					],
+					[
+						"pass",
+						"passport-local"
+					],
+					[
+						"bod",
+						"bodyParser"
+					],
+					[
+						"cook",
+						"cookieParser"
+					],
+					[
+						"body",
+						"body-parser"
+					],
+					[
+						"cooki",
+						"cookie-parser"
+					],
+					[
+						"popu",
+						"popularsubjects"
+					],
+					[
+						"conta",
+						"containerWidth"
+					],
+					[
+						"fil",
+						"filterOptions"
+					],
+					[
+						"$loc",
+						"$location	AngularJS"
+					],
+					[
+						"http",
+						"$httpBackend	AngularJS"
+					],
+					[
+						"root",
+						"$rootScope	AngularJS"
+					],
+					[
+						"doc",
+						"docIndex"
+					],
+					[
+						"docu",
+						"documentIndex"
+					],
+					[
+						"acc",
+						"acceptButton"
+					],
+					[
+						"an",
+						"angular	AngularJS"
+					],
+					[
+						"toha",
+						"toHaveBeenCalledWith"
+					],
+					[
+						"toh",
+						"toHaveBeenCalledWith"
+					],
+					[
+						"and",
+						"andReturn"
+					],
+					[
+						"toa",
+						"toHaveBeenCalledWith"
+					],
+					[
+						"exp",
+						"expect"
+					],
+					[
+						"desc",
+						"describe"
+					],
+					[
+						"crea",
+						"createSpy"
+					],
+					[
+						"ex",
+						"exp	expect"
+					],
+					[
+						"dis",
+						"disableUp"
+					],
+					[
+						"$root",
+						"$rootScope	AngularJS"
+					],
+					[
+						"activ",
+						"activePage"
+					],
+					[
+						"$sta",
+						"$stateParams"
+					],
+					[
+						"dele",
+						"deleteAuthToken"
+					],
+					[
+						"gmss",
+						"gmservicesProvider"
+					],
+					[
+						"gms",
+						"gmservicesProvider"
+					],
+					[
+						"creat",
+						"createUserService"
+					],
+					[
+						"styl",
+						"styleHTML"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"tohav",
+						"toHaveBeenCalled"
+					],
+					[
+						"fail",
+						"failed"
+					],
+					[
+						"term",
+						"TermsConditionService"
+					],
+					[
+						"test",
+						"testData"
+					],
+					[
+						"Terms",
+						"TermsConditionService"
+					],
+					[
+						"$h",
+						"$httpBackend	AngularJS(DI)"
+					],
+					[
+						"$ht",
+						"$httpBackend	AngularJS"
+					],
+					[
+						"to",
+						"toHaveBeenCalled"
+					],
+					[
+						"param",
+						"paramObj"
+					],
+					[
+						"$http",
+						"$httpBackend	AngularJS"
+					],
+					[
+						"user",
+						"UserAppsService"
+					],
+					[
+						"$",
+						"$compile	AngularJS"
+					],
+					[
+						"stat",
+						"mockState"
+					],
+					[
+						"exis",
+						"exitSuccessAndSetTime"
+					],
+					[
+						"mock",
+						"mockAuthCache"
+					],
+					[
+						"setc",
+						"setTCCheckTime"
+					],
+					[
+						"andCa",
+						"andCallThrough"
+					],
+					[
+						"moc",
+						"mock$state"
+					],
+					[
+						"log",
+						"logout"
+					],
+					[
+						"Authc",
+						"mockAuthCache"
+					],
+					[
+						"exi",
+						"exitSuccess"
+					],
+					[
+						"andC",
+						"andCallFake"
+					],
+					[
+						"mocks",
+						"mockState"
+					],
+					[
+						"sho",
+						"showDialog"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"init",
+						"initKeyboard"
+					],
+					[
+						"Auth",
+						"AuthUtilityService"
+					],
+					[
+						"toH",
+						"toHaveBeenCalled"
+					],
+					[
+						"vert",
+						"vertically-centered"
+					],
+					[
+						"ver",
+						"vertically-center"
+					],
+					[
+						"scro",
+						"scroll-window"
+					],
+					[
+						"para",
+						"parameters"
+					],
+					[
+						"ac",
+						"activePage"
+					],
+					[
+						"ap",
+						"apps"
+					],
+					[
+						"num",
+						"numPages"
+					],
+					[
+						"get",
+						"getApps"
+					],
+					[
+						"toHave",
+						"toHaveBeenCalledWith"
+					],
+					[
+						"fir",
+						"firstNames"
+					],
+					[
+						"clear",
+						"clearVariables"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/vizcharts/horizontal-bar-chart-directive.js",
+					"settings":
+					{
+						"buffer_size": 7991,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/vizcharts/horizontal-bar-chart-directive.spec.js",
+					"settings":
+					{
+						"buffer_size": 9362,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/admin/manage-users/manage-users-service.js",
+					"settings":
+					{
+						"buffer_size": 2078,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"git bl",
+						"Git: Blame"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ma",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mar",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"bla",
+						"Git: Blame"
+					],
+					[
+						"js",
+						"Set Syntax: JSON"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"git ",
+						"Git: Blame"
+					],
+					[
+						"git",
+						"Git: Blame"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"git b",
+						"Git: Blame"
+					],
+					[
+						"jasmin",
+						"Set Syntax: Jasmine"
+					],
+					[
+						"removep",
+						"Package Control: Remove Package"
+					],
+					[
+						"pac",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"jshin",
+						"JSHint"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Function"
+					],
+					[
+						"",
+						"Snippet: Object Method"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 579.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/app.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/admin/manage-users/create/create.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/vizcharts/filters-directive.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/styles/main.css",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/admin/manage-users/manage-users.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/admin/my-university-groups.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/admin/manage-users/create/create.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/vizcharts/filters-directive.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/admin/manage-users/manage-users-service.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/vizcharts/horizontal-bar-chart-directive.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/login/login.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/controllers/GlobalNavBar.tpl.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/controllers/GlobalNavBarCtrl.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/admin/manage-users/manage-users.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/services/auth.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/bower_components/angular-bootstrap/ui-bootstrap-tpls.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/directives/chart-page.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/popular-subjects/popular-subjects.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/popular-dissertations/popular-dissertations.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/country-usage/country-usage.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/styles/uxframework.css",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/dashboard/dashboard.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/services/session.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/index.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/popular-dissertations/popular-dissertations.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/popular-subjects/popular-subjects.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/directives/chart-page.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/admin/manage-users/manage-users.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/common/services/auth.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/Gruntfile.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/.tmp/templates.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/bower.json",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/package.json",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/karma.conf.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/vizcharts/filters-directive.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/help/help.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/vizcharts/line-chart-directive.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/vizcharts/line-chart-directive.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/usage-trend/usage-trend.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/dashboard/dashboard.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/vizcharts/viz-service.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/usage-trend/usage-trend.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/usage-comparison/usage-comparison.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/mock.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/vizcharts/viz-service.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/admin/my-university-groups.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/dashboard/dashboard.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/common/services/session.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/VizCtrlTest.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/login/forgot-password.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/app.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/login.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/services/data.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/login/forgot-password.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/login/login.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/login/forgot-password.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/common/controllers/GlobalNavBarCtrl.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/login/login.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/directives/commonDirectives.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/alerts/alerts-service.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/alerts/alerts-directive.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/data/world-country-names.json",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/about/about.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/about/about.tpl.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/controllers/BannerMessage.tpl.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/bower_components/angular-loading-bar/build/loading-bar.css",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/controllers/BannerMessageController.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/services/BannerMessageService.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/common/directives/commonDirectives.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/mock/banner.json",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/services/UserService.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/vizcharts/world-map-directive.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/vizcharts/horizontal-bar-chart-directive.spec.js",
+				"/Users/cvonbuel/apps/dbui/app/styles/main.scss",
+				"/Users/cvonbuel/apps/dbui/app/scripts/databases/databases.html",
+				"/Users/cvonbuel/apps/dbui/app/scripts/login/login.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/common/directives/chart-page.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/vizcharts/world-map-directive.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/country-usage/country-usage.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/usage-comparison/usage-comparison.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/schools-usage/schools-usage.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/admin/manage-users/create/create.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/common/directives/menu.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/directives/menu.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/bower_components/angular-loading-bar/build/loading-bar.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/coverage/PhantomJS 1.9.7 (Mac OS X)/lcov-report/scripts/common/directives/menu.js.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/admin/my-university-groups.tpl.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/data/worldmap.json",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/bower_components/topojson/topojson.js",
+				"/Users/cvonbuel/apps/dbui-api/start.js",
+				"/Users/cvonbuel/apps/dbui-api/ssh-test.js",
+				"/Users/cvonbuel/apps/dbui-api/node_modules/mysql/lib/Connection.js",
+				"/Users/cvonbuel/apps/UX-Framework/node_modules/grunt-concurrent/tasks/concurrent.js",
+				"/Users/cvonbuel/apps/UX-Framework/site-resources/css/src/uxf-site.css",
+				"/Users/cvonbuel/apps/UX-Framework/src/js/browerspecific.js",
+				"/Users/cvonbuel/apps/UX-Framework/dist/js/uxframework.min.js",
+				"/Users/cvonbuel/apps/UX-Framework/package.json",
+				"/Users/cvonbuel/apps/UX-Framework/src/js/selectbox.js",
+				"/Users/cvonbuel/apps/UX-Framework/site-html/includes/uikit-basictemplate.html",
+				"/Users/cvonbuel/apps/UX-Framework/site-html/includes/scripts.html",
+				"/Users/cvonbuel/apps/UX-Framework/site-html/includes/head.html",
+				"/Users/cvonbuel/apps/UX-Framework/site-html/about.html",
+				"/Users/cvonbuel/apps/UX-Framework/site-html/includes/navbar.html",
+				"/Users/cvonbuel/apps/UX-Framework/README.md",
+				"/Users/cvonbuel/apps/UX-Framework/site-html/uikit.html",
+				"/Users/cvonbuel/apps/UX-Framework/site-html/includes/uikit-gettingstarted.html",
+				"/Users/cvonbuel/apps/UX-Framework/site-html/includes/uikit-basicstructure.html",
+				"/Users/cvonbuel/apps/UX-Framework/src/uxframework/less/brand-colors.less",
+				"/Users/cvonbuel/apps/UX-Framework/uikit.html",
+				"/Users/cvonbuel/apps/UX-Framework/dist/src/uxframework/less/uxframework-blue.less",
+				"/Users/cvonbuel/apps/UX-Framework/about.html",
+				"/Users/cvonbuel/apps/UX-Framework/components.html",
+				"/Users/cvonbuel/apps/UX-Framework/contact.html",
+				"/Users/cvonbuel/apps/UX-Framework/examples.html",
+				"/Users/cvonbuel/apps/UX-Framework/guidelines.html",
+				"/Users/cvonbuel/apps/UX-Framework/index.html",
+				"/Users/cvonbuel/apps/UX-Framework/src/uxframework/less/uxframework-blue.less",
+				"/Users/cvonbuel/apps/UX-Framework/src/uxframework/less/uxframework-green.less",
+				"/Users/cvonbuel/apps/UX-Framework/src/uxframework/less/uxframework-olive.less",
+				"/Users/cvonbuel/apps/UX-Framework/src/uxframework/less/uxframework-purple.less",
+				"/Users/cvonbuel/apps/UX-Framework/src/uxframework/less/uxframework-teal.less",
+				"/Users/cvonbuel/apps/UX-Framework/src/uxframework/less/variables.less",
+				"/Users/cvonbuel/apps/UX-Framework/download/proquest-uikit-1.0.0.zip",
+				"/Users/cvonbuel/apps/UX-Framework/.gitignore",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/vizcharts/subjects-modal-ctrl.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/controllers/GlobalFooter.tpl.html",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/common/directives/dashboard-chart.spec.js",
+				"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/common/directives/dashboard-chart.html"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 98.0,
+				"where_history":
+				[
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts",
+					"/Users/cvonbuel/apps/UX-Framework",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app",
+					"/Users/cvonbuel/apps/ng-csv/src/ng-csv",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app",
+					"/Users/cvonbuel/apps/me/MeProQuest-UI",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app",
+					"/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test",
+					"/Users/cvonbuel/apps/DissertationDashboard/DissertationDashboard-UI/test",
+					"/Users/cvonbuel/apps/DissertationDashboard/DissertationDashboard-UI/app/scripts",
+					"/Users/cvonbuel/apps/DissertationDashboard/DissertationDashboard-UI/app",
+					"/Users/cvonbuel/apps/DissertationDashboard/DissertationDashboard-UI/test",
+					"/Users/cvonbuel/apps/DissertationDashboard/DissertationDashboard-UI/app/scripts",
+					"/Users/cvonbuel/apps/DissertationDashboard/DissertationDashboard-UI/app/",
+					"/Users/cvonbuel/apps/DissertationDashboard/DissertationDashboard-UI/app/scripts",
+					"/Users/cvonbuel/apps/DissertationDashboard/DissertationDashboard-UI/scripts",
+					"/Users/cvonbuel/apps/DissertationDashboard/DissertationDashboard-UI/test",
+					"/Users/cvonbuel/apps/DissertationDashboard/DissertationDashboard-UI/app/scripts",
+					"./",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/test",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-daemon/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/shoelace/styles",
+					"/Users/cvbuelow/Apps/ihu-appshop",
+					"/Users/cvbuelow/Apps/ihu-appshop/lib",
+					"/Users/cvbuelow/Apps/ihu-appshop/test",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/test",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop/target/emulator",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-common.legal/",
+					"/Users/cvbuelow/Apps/ihu-common.legal/src",
+					"/Users/cvbuelow/Apps/ihu-appshop",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-appshop",
+					"/Users/cvbuelow/Apps/ihu-appshop/src",
+					"/Users/cvbuelow/Apps/ihu-common.utility/src",
+					"/Users/cvbuelow/Apps/ihu-common/src",
+					"/Users/cvbuelow/Apps/ihu-daemon/src",
+					"/Users/cvbuelow/Apps/newapp3",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps",
+					"/Users/cvbuelow/Apps/ihu-connections",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps/ihu-connections",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps/ihu-accounts-2.0",
+					"/Users/cvbuelow/Apps/ihu-connections",
+					"/Users/cvbuelow/Apps/ihu-common",
+					"/Users/cvbuelow/Apps/ihu-connections"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"isDashboard",
+					"pointer",
+					"filters",
+					"$('.filters')",
+					"closeDropdown",
+					"evt",
+					"e",
+					"dropdownService",
+					"closeDropdown",
+					"dropdown",
+					"hidden",
+					"40",
+					".filters",
+					".filters .uxf-icon",
+					"uxf-filter",
+					"uxf-icon",
+					"filters",
+					"ie9",
+					"truncate",
+					"isDashboard",
+					"school",
+					"sessionObject",
+					"inline-block",
+					"dropdown-menu",
+					"dropdown-menu-right",
+					"bootstrap",
+					"popup_menu",
+					".dropdown",
+					"dropdown",
+					"connec",
+					"2js",
+					"a",
+					"dissdash-export",
+					"exportmenu_dropdown",
+					"dissdash-export",
+					"'",
+					"[dashboard]",
+					"chartHeight",
+					"legend",
+					"before",
+					"appRoo",
+					"app",
+					"absolute",
+					"h1",
+					"ng-view",
+					"VizService",
+					"ipLogin",
+					"isInternal",
+					"removeInternal",
+					"dataItems",
+					"user",
+					"checkAccounts",
+					"UsersFactory.users",
+					"is",
+					"controller",
+					"HelpCtrl",
+					"$location",
+					"$route",
+					"AuthService",
+					"ForgotPasswordCtrl",
 					"$rootScope",
-					"thenify",
-					"$http",
-					"gmservices",
-					"SessionManagerService",
-					"onDeleteConfirm",
-					"gotToManageApps",
-					"FUNCTION_TAG",
-					"setAppsInfoActions",
-					"appsPerPage",
-					"getInstalledApps",
-					"CLASS_TAG",
-					"error",
-					"data",
-					"$rootScope",
-					"$state",
-					"$q",
-					"applogger",
-					"RoutingService",
-					"event",
-					"toParams",
-					"cancelPressedInEmailEntry",
-					"email(",
-					"email",
-					"acceptTCsFailure",
-					"documentIndex",
-					"acceptTCsFailure",
-					"reRoute",
-					"emit",
-					"reRoute",
-					"AcceptTermsService",
-					"$q",
-					"console.log",
-					"returnToSettings",
-					"emailAndCancel",
-					"onCan",
-					"index",
-					"$stateParams.index",
-					"hideModal",
-					"showEmailError",
-					"_checkDataReturned",
-					"initDeferred",
-					"legal",
-					"Messaging.app_zero.route",
-					"CLOSE_GENERAL_APP",
-					"Messaging.app_zero.CLOSE_GENERAL_APP",
-					"closeGeneralApp",
-					"checkToCloseBackgroundApps",
-					"throw new Error",
-					"exitProcess",
-					"doneProcess",
-					"setUserAcc",
-					"terms",
-					"setUserAccepted",
-					"setUserA",
-					"numPages",
-					"terms",
-					"numPages",
-					"appthumb",
-					"css",
-					"sprite",
-					"Refresh",
-					"sprite",
-					"welcome",
-					"sprite",
-					"large-button",
-					"tile",
-					"large-button",
-					"lastNameFirstLetter",
-					".EighteenCharEllipsis",
-					".tile",
-					".large-button",
-					".tile",
-					"#exit",
-					"horiz",
-					"/* @echo emulator */",
-					"gmservices",
-					"should return the response data on success",
-					"GET_GEN10_NW_STATE !!!!!!",
-					"***property to check:GET_GEN10_NW_STATE",
-					"headers",
-					"getTCsSummary",
-					"getTCsDetail",
-					"headers",
-					"vin",
-					"ResourceService",
-					"$q",
-					"ResourceService",
-					"handleError",
-					"ihuModules",
-					"indexOf",
-					"?who=Foo%20Bar&tc_hash=123456",
-					"name=",
-					"91234",
-					"ihuModules",
-					"widgets",
-					"name=",
-					"who=Foo%20Bar&",
-					"name=",
-					"name",
-					"getVehicleConfiguration",
-					"usrName",
-					"DeclineTermsService",
-					"rejectTandC",
-					"DeclineTermsController"
+					"Session.user.username",
+					"StaticDataService",
+					"when",
+					"'",
+					"imageinfo",
+					": ",
+					"BannerMessageService",
+					"mock",
+					"UserService",
+					"tables",
+					"databaseId",
+					"useminPrepare",
+					"connect",
+					"html2js",
+					"tmp",
+					"concat",
+					"uglify",
+					".tmp/concat",
+					".tmp/concat/scripts",
+					"html2",
+					"pq-horizontal-bar-chart",
+					"<pq-horizontal-bar-chart data=\"data\" />",
+					"border-r",
+					"viz-chart",
+					"spinner",
+					"navbar-brand",
+					"#leftMenu",
+					"eqheight",
+					"<menu>",
+					"@media",
+					"768px",
+					"#leftMenu",
+					"eqheight",
+					".spinner-icon",
+					".chart",
+					".path",
+					"$size",
+					"$color",
+					"rights",
+					"tooltipText",
+					"-99",
+					"displayName",
+					"database",
+					"databaseId",
+					"database",
+					"Database",
+					"database",
+					"err",
+					"self.connection",
+					"2",
+					"cssmin",
+					"less",
+					"olive",
+					"green",
+					"blue",
+					"minConfig",
+					"less",
+					"blue",
+					"less",
+					"clean",
+					"watch:site",
+					"htmlTMP",
+					"site-html/tmp",
+					"site-html/tmp/",
+					"site-html/tmp",
+					"htmlTMP",
+					"uglify"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -3569,6 +2635,8 @@
 				"regex": false,
 				"replace_history":
 				[
+					"dist",
+					"",
 					"//console.log",
 					"\\'",
 					"AppsGlobalModule",
@@ -3593,29 +2661,29 @@
 			"folders":
 			[
 				{
-					"path": "/Users/cvbuelow/Apps/ihu-appshop"
+					"path": "/Users/cvonbuel/apps/dd/DissertationDashboard-UI"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/cvbuelow/Apps/ihu-appshop/src/Apps.js",
+							"file": "/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/vizcharts/horizontal-bar-chart-directive.js",
 							"settings":
 							{
-								"buffer_size": 6391,
+								"buffer_size": 7991,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										816,
-										816
+										259,
+										270
 									]
 								],
 								"settings":
@@ -3649,6 +2717,10 @@
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
@@ -3704,6 +2776,8 @@
 										"vendor-prefix": true,
 										"zero-units": "warning"
 									},
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
 									"gjslint_ignore":
 									[
 										110.0
@@ -3755,7 +2829,8 @@
 									"sublimelinter_wrap_find": true,
 									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -3765,18 +2840,18 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/Users/cvbuelow/Apps/ihu-appshop/bower.json",
+							"file": "/Users/cvonbuel/apps/dd/DissertationDashboard-UI/test/spec/vizcharts/horizontal-bar-chart-directive.spec.js",
 							"settings":
 							{
-								"buffer_size": 1060,
+								"buffer_size": 9362,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										205,
-										205
+										939,
+										939
 									]
 								],
 								"settings":
@@ -3810,6 +2885,10 @@
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
@@ -3865,6 +2944,8 @@
 										"vendor-prefix": true,
 										"zero-units": "warning"
 									},
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
 									"gjslint_ignore":
 									[
 										110.0
@@ -3914,12 +2995,181 @@
 										"Ruby on Rails": "ruby"
 									},
 									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"syntax": "Packages/Jasmine/Syntaxes/Jasmine.tmLanguage",
 									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 394.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/cvonbuel/apps/dd/DissertationDashboard-UI/app/scripts/admin/manage-users/manage-users-service.js",
+							"settings":
+							{
+								"buffer_size": 2078,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1328,
+										1328
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 590.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -3962,7 +3212,7 @@
 			{
 				"height": 120.0
 			},
-			"position": "79 69 1168 989 0 0 1920 1058 ",
+			"position": "1584 33 957 807 1440 -180 1920 1058 ",
 			"replace":
 			{
 				"height": 66.0
@@ -3973,6 +3223,518 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"app",
+						"app/scripts/app.js"
+					],
+					[
+						"manuss",
+						"app/scripts/admin/manage-users/manage-users-service.js"
+					],
+					[
+						"cre",
+						"app/scripts/admin/manage-users/create/create.js"
+					],
+					[
+						"horsp",
+						"test/spec/vizcharts/horizontal-bar-chart-directive.spec.js"
+					],
+					[
+						"mysp",
+						"test/spec/admin/my-university-groups.spec.js"
+					],
+					[
+						"mansp",
+						"test/spec/admin/manage-users/manage-users.spec.js"
+					],
+					[
+						"createsp",
+						"test/spec/admin/manage-users/create/create.spec.js"
+					],
+					[
+						"auth",
+						"app/scripts/common/services/auth.js"
+					],
+					[
+						"globa",
+						"app/scripts/common/controllers/GlobalNavBarCtrl.js"
+					],
+					[
+						"mans",
+						"app/scripts/admin/manage-users/manage-users-service.js"
+					],
+					[
+						"hor",
+						"app/scripts/vizcharts/horizontal-bar-chart-directive.js"
+					],
+					[
+						"log",
+						"app/scripts/login/login.html"
+					],
+					[
+						"global",
+						"app/scripts/common/controllers/GlobalNavBar.tpl.html"
+					],
+					[
+						"filter",
+						"app/scripts/vizcharts/filters-directive.js"
+					],
+					[
+						"pop",
+						"app/scripts/popular-dissertations/popular-dissertations.html"
+					],
+					[
+						"mana",
+						"app/scripts/admin/manage-users/manage-users.js"
+					],
+					[
+						"crea",
+						"app/scripts/admin/manage-users/create/create.js"
+					],
+					[
+						"ux",
+						"app/styles/uxframework.css"
+					],
+					[
+						"main",
+						"app/styles/main.css"
+					],
+					[
+						"das",
+						"app/scripts/dashboard/dashboard.html"
+					],
+					[
+						"count",
+						"app/scripts/country-usage/country-usage.html"
+					],
+					[
+						"popsu",
+						"app/scripts/popular-subjects/popular-subjects.html"
+					],
+					[
+						"chartp",
+						"app/scripts/common/directives/chart-page.html"
+					],
+					[
+						"ap",
+						"app/scripts/app.js"
+					],
+					[
+						"ses",
+						"app/scripts/common/services/session.js"
+					],
+					[
+						"char",
+						"app/scripts/common/directives/chart-page.js"
+					],
+					[
+						"chart",
+						"app/scripts/common/directives/chart-page.html"
+					],
+					[
+						"popdis",
+						"app/scripts/popular-dissertations/popular-dissertations.js"
+					],
+					[
+						"glo",
+						"app/scripts/common/controllers/GlobalNavBar.tpl.html"
+					],
+					[
+						"glob",
+						"app/scripts/common/controllers/GlobalNavBar.tpl.html"
+					],
+					[
+						"pops",
+						"app/scripts/popular-subjects/popular-subjects.html"
+					],
+					[
+						"authsp",
+						"test/spec/common/services/auth.spec.js"
+					],
+					[
+						"popd",
+						"app/scripts/popular-dissertations/popular-dissertations.html"
+					],
+					[
+						"ind",
+						"app/index.html"
+					],
+					[
+						"filte",
+						"app/scripts/vizcharts/filters-directive.js"
+					],
+					[
+						"filtersp",
+						"test/spec/vizcharts/filters-directive.spec.js"
+					],
+					[
+						"pack",
+						"package.json"
+					],
+					[
+						"help",
+						"app/scripts/help/help.html"
+					],
+					[
+						"bower",
+						"bower.json"
+					],
+					[
+						"lo",
+						"app/scripts/login/login.html"
+					],
+					[
+						"gru",
+						"Gruntfile.js"
+					],
+					[
+						"usage",
+						"app/scripts/usage-trend/usage-trend.html"
+					],
+					[
+						"dash",
+						"app/scripts/dashboard/dashboard.html"
+					],
+					[
+						"viz",
+						"app/scripts/vizcharts/viz-service.js"
+					],
+					[
+						"in",
+						"app/index.html"
+					],
+					[
+						"usagetr",
+						"app/scripts/usage-trend/usage-trend.js"
+					],
+					[
+						"linsp",
+						"test/spec/vizcharts/line-chart-directive.spec.js"
+					],
+					[
+						"line",
+						"app/scripts/vizcharts/line-chart-directive.js"
+					],
+					[
+						"usag",
+						"app/scripts/usage-comparison/usage-comparison.js"
+					],
+					[
+						"vizsp",
+						"test/spec/vizcharts/viz-service.spec.js"
+					],
+					[
+						"mock",
+						"test/spec/mock.js"
+					],
+					[
+						"manus",
+						"test/spec/admin/manage-users/manage-users.spec.js"
+					],
+					[
+						"man",
+						"app/scripts/admin/manage-users/manage-users.js"
+					],
+					[
+						"manusspec",
+						"test/spec/admin/manage-users/manage-users.spec.js"
+					],
+					[
+						"myu",
+						"app/scripts/admin/my-university-groups.js"
+					],
+					[
+						"for",
+						"test/spec/login/forgot-password.spec.js"
+					],
+					[
+						"sess",
+						"app/scripts/common/services/session.js"
+					],
+					[
+						"forg",
+						"test/spec/login/forgot-password.spec.js"
+					],
+					[
+						"vizse",
+						"app/scripts/vizcharts/viz-service.js"
+					],
+					[
+						"alerts",
+						"app/scripts/common/alerts/alerts-directive.html"
+					],
+					[
+						"userserv",
+						"app/scripts/common/services/UserService.js"
+					],
+					[
+						"word",
+						"app/scripts/vizcharts/world-map-directive.js"
+					],
+					[
+						"horisp",
+						"test/spec/vizcharts/horizontal-bar-chart-directive.spec.js"
+					],
+					[
+						"hori",
+						"app/scripts/vizcharts/horizontal-bar-chart-directive.js"
+					],
+					[
+						"inde",
+						"app/index.html"
+					],
+					[
+						"acc",
+						"app/scripts/home/account-details.html"
+					],
+					[
+						"grun",
+						"Gruntfile.js"
+					],
+					[
+						"managser",
+						"app/scripts/admin/manage-users/manage-users-service.js"
+					],
+					[
+						"worspe",
+						"test/spec/vizcharts/world-map-directive.spec.js"
+					],
+					[
+						"usagespe",
+						"test/spec/usage-comparison/usage-comparison.spec.js"
+					],
+					[
+						"tesctrl",
+						"test/spec/VizCtrlTest.js"
+					],
+					[
+						"loading",
+						"app/bower_components/angular-loading-bar/build/loading-bar.css"
+					],
+					[
+						"scho",
+						"app/scripts/schools-usage/schools-usage.js"
+					],
+					[
+						"wor",
+						"app/scripts/vizcharts/world-map-directive.js"
+					],
+					[
+						"usacou",
+						"app/scripts/country-usage/country-usage.js"
+					],
+					[
+						"popdi",
+						"app/scripts/popular-dissertations/popular-dissertations.js"
+					],
+					[
+						"filters",
+						"app/scripts/vizcharts/filters-directive.js"
+					],
+					[
+						"create",
+						"app/scripts/admin/manage-users/create/create.html"
+					],
+					[
+						"mensp",
+						"test/spec/common/directives/menu.spec.js"
+					],
+					[
+						"men",
+						"app/scripts/common/directives/menu.js"
+					],
+					[
+						"menu",
+						"test/coverage/PhantomJS 1.9.7 (Mac OS X)/lcov-report/scripts/common/directives/menu.js.html"
+					],
+					[
+						"my",
+						"app/scripts/admin/my-university-groups.tpl.html"
+					],
+					[
+						"pa",
+						"package.json"
+					],
+					[
+						"commdsp",
+						"test/spec/common/directives/commonDirectives.spec.js"
+					],
+					[
+						"creatspe",
+						"test/spec/admin/manage-users/create/create.spec.js"
+					],
+					[
+						"commondsp",
+						"test/spec/common/directives/commonDirectives.spec.js"
+					],
+					[
+						"aler",
+						"dist/scripts/common/alerts/alerts-directive.html"
+					],
+					[
+						"filterdisp",
+						"test/spec/vizcharts/filters-directive.spec.js"
+					],
+					[
+						"commond",
+						"app/scripts/common/directives/commonDirectives.js"
+					],
+					[
+						"logi",
+						"app/scripts/login/login.html"
+					],
+					[
+						"manausp",
+						"test/spec/admin/manage-users/manage-users.spec.js"
+					],
+					[
+						"grunt",
+						"Gruntfile.js"
+					],
+					[
+						"karm",
+						"karma.conf.js"
+					],
+					[
+						"lin",
+						"app/scripts/vizcharts/line-chart-directive.js"
+					],
+					[
+						"kar",
+						"karma.conf.js"
+					],
+					[
+						"alert",
+						"app/scripts/common/alerts/alerts-service.js"
+					],
+					[
+						"login",
+						"app/scripts/login/login.js"
+					],
+					[
+						"com",
+						"app/scripts/common/filters/commonFilters.js"
+					],
+					[
+						"manasp",
+						"test/spec/admin/manage-users/manage-users.spec.js"
+					],
+					[
+						"manauss",
+						"app/scripts/admin/manage-users/manage-users-service.js"
+					],
+					[
+						"common",
+						"app/scripts/common/filters/commonFilters.js"
+					],
+					[
+						"manag",
+						"app/scripts/admin/manage-users/manage-users.html"
+					],
+					[
+						"vizt",
+						"test/spec/VizCtrlTest.js"
+					],
+					[
+						"globspec",
+						"test/spec/common/controllers/GlobalNavBarCtrl.spec.js"
+					],
+					[
+						"footer",
+						"app/scripts/common/controllers/GlobalFooter.tpl.html"
+					],
+					[
+						"globalspec",
+						"test/spec/common/controllers/GlobalNavBarCtrl.spec.js"
+					],
+					[
+						"nav",
+						"app/scripts/common/controllers/GlobalNavBar.tpl.html"
+					],
+					[
+						"linech",
+						"test/spec/vizcharts/line-chart-directive.spec.js"
+					],
+					[
+						"creh",
+						"app/scripts/admin/manage-users/create/create.html"
+					],
+					[
+						"filtersse",
+						"app/scripts/vizcharts/filtersSelectSubjects.tpl.html"
+					],
+					[
+						"vizspe",
+						"test/spec/vizcharts/viz-service.spec.js"
+					],
+					[
+						"worl",
+						"app/scripts/vizcharts/world-map-directive.js"
+					],
+					[
+						"unisp",
+						"test/spec/admin/my-university-groups.spec.js"
+					],
+					[
+						"vizss",
+						"test/spec/vizcharts/viz-service.spec.js"
+					],
+					[
+						"lpopdi",
+						"app/scripts/popular-dissertations/popular-dissertations.html"
+					],
+					[
+						"foote",
+						"app/scripts/common/controllers/GlobalFooter.tpl.html"
+					],
+					[
+						"globana",
+						"app/scripts/common/controllers/GlobalNavBarCtrl.js"
+					],
+					[
+						"alerss",
+						"test/spec/common/alerts/alerts-service.spec.js"
+					],
+					[
+						"unsup",
+						"app/unsupported-browser.js"
+					],
+					[
+						"bann",
+						"app/mock/banner.json"
+					],
+					[
+						"unsu",
+						"app/unsupported-browser.js"
+					],
+					[
+						"vi",
+						"app/scripts/vizcharts/viz-service.js"
+					],
+					[
+						"charp",
+						"app/scripts/common/directives/chart-page.js"
+					],
+					[
+						"logsp",
+						"test/spec/login/login.spec.js"
+					],
+					[
+						"login.j",
+						"app/scripts/login/login.js"
+					],
+					[
+						"creat",
+						"app/scripts/admin/manage-users/create/create.js"
+					],
+					[
+						"logisp",
+						"test/spec/login/login.spec.js"
+					],
+					[
+						"uni",
+						"app/scripts/admin/my-university-groups.js"
+					]
 				],
 				"width": 0.0
 			},
@@ -3987,10 +3749,10 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 253.0,
+			"side_bar_visible": false,
+			"side_bar_width": 275.0,
 			"status_bar_visible": true,
-			"window_id": 171,
+			"window_id": 286,
 			"workspace_name": ""
 		}
 	],

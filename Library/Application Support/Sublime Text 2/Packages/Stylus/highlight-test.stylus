@@ -112,6 +112,17 @@ body
     color black
   }
 
+// Selectors start with a symbol
+div
+  :before
+  ::before
+  ~ div
+  + div
+  > div
+  [href^="#"]
+  *
+    background-color: red
+
 // Compound selectors
 body.someclass#someid
   font normal 18px/30px OpenSans, Verdana, sans-serif
@@ -121,8 +132,17 @@ textarea, input
   border 1px solid #fff
 
 // Multiple properties separated by line
-a
-  font-size 10px
+font .a32
+  font-family font1
+  font-size base-font-size
+  font normal
+  font bold
+  font lighter
+  font monospace
+  font 400
+  font 1.2em
+  font "Verdana"
+  font normal 18px/30px OpenSans, Verdana, sans-serif
   left 15px
 
 // Multiple properties separated by semicolon
@@ -153,7 +173,7 @@ header
     top 0
 
 // Variable assignments
-i = ''
+i = '' // test comment
 n ?= 5
 test := 5
 
@@ -201,6 +221,14 @@ somefunction(a, b = 16px, c = b, d...)
   jpg = "png"
   background-image url(../test.jpg) // will yeild url("../5.png")
   background-image url("../test.jpg")
+
+// block mixin
+bar()
+  {block}
+
+body
+  +bar()
+    width: 100%;
 
 // Placeholder selectors
 $foo

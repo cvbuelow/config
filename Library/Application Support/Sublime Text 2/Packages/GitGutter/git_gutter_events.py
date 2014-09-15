@@ -1,9 +1,11 @@
+import time
+
 import sublime
 import sublime_plugin
 
 ST3 = int(sublime.version()) >= 3000
 if ST3:
-    from GitGutter.view_collection import ViewCollection
+    from .view_collection import ViewCollection
 else:
     from view_collection import ViewCollection
 
@@ -12,6 +14,7 @@ class GitGutterEvents(sublime_plugin.EventListener):
 
     def __init__(self):
         self._settings_loaded = False
+        self.latest_keypresses = {}
 
     # Synchronous
 
@@ -42,30 +45,37 @@ class GitGutterEvents(sublime_plugin.EventListener):
 
     # Asynchronous
 
+    def debounce(self, view, event_type, func):
+        key = (event_type, view.file_name())
+        this_keypress = time.time()
+        self.latest_keypresses[key] = this_keypress
+
+        def callback():
+            latest_keypress = self.latest_keypresses.get(key, None)
+            if this_keypress == latest_keypress:
+                func(view)
+
+        sublime.set_timeout_async(callback, settings.get("debounce_delay"))
+
     def on_modified_async(self, view):
-        if self.settings_loaded():
-            if self.non_blocking and self.live_mode:
-                ViewCollection.add(view)
+        if self.settings_loaded() and self.non_blocking and self.live_mode:
+            self.debounce(view, "modified", ViewCollection.add)
 
     def on_clone_async(self, view):
-        if self.settings_loaded():
-            if self.non_blocking:
-                ViewCollection.add(view)
+        if self.settings_loaded() and self.non_blocking and self.live_mode:
+            self.debounce(view, "clone", ViewCollection.add)
 
     def on_post_save_async(self, view):
-        if self.settings_loaded():
-            if self.non_blocking:
-                ViewCollection.add(view)
+        if self.settings_loaded() and self.non_blocking and self.live_mode:
+            self.debounce(view, "save", ViewCollection.add)
 
     def on_load_async(self, view):
-        if self.settings_loaded():
-            if self.non_blocking and not self.live_mode:
-                ViewCollection.add(view)
+        if self.settings_loaded() and self.non_blocking and not self.live_mode:
+            self.debounce(view, "load", ViewCollection.add)
 
     def on_activated_async(self, view):
-        if self.settings_loaded():
-            if self.non_blocking and self.focus_change_mode:
-                ViewCollection.add(view)
+        if self.settings_loaded() and self.non_blocking and self.live_mode:
+            self.debounce(view, "activated", ViewCollection.add)
 
     # Settings
 

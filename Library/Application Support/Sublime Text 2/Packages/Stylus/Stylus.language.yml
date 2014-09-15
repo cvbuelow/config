@@ -216,6 +216,7 @@ repository:
 
     expression:
         patterns:
+            - { include: '#single-line-comment' }
             - { include: '#comma' }
             - { include: '#iteration' }
             - { include: '#conditionals' }
@@ -603,7 +604,8 @@ patterns:
 
                 (^|;)           # starts at the beginning of line or at a ;
                 \s*
-                ([\w$-]+)       # identifier (name)
+                (\+?\s*         # for block mixins
+                 [\w$-]+)       # identifier (name)
                 \s*
                 (\()            # start of argument list
                 (?=
@@ -631,8 +633,18 @@ patterns:
             (^|\}|(?&lt;=\*/))\s*
             (?=
                 # we need to distinguish between tag font and property font
-                font\s*(?:$|[,.#:$+~\[]) |
-                (
+                font(?!
+                    \s*:\s
+                    |
+                    -
+                    |
+                    .*?
+                    (?:
+                        \/|normal|bold|light(er?)|serif|sans|monospace|
+                        \b\d+(?:\b|px|r?em|%)|
+                        ['"][^\]]*$
+                    )
+                ) | (
                     (a|abbr|acronym|address|applet|area|article|aside|audio|b|base|
                     basefont|bdi|bdo|bgsound|big|blink|blockquote|body|br|button|
                     canvas|caption|center|cite|code|col|colgroup|data|
@@ -654,13 +666,19 @@ patterns:
                     [:~&gt;\[*]         # symbols but they are valid for selector
                                         # so use it as a recognition rule
 
-                ) | (                   # for animtions
+                ) | (
+
+                    \+\s*[\w$-]+\b\s*      # are an identifier starting with $
+                    (?!\()              # and they can't have anything besides
+                                        # that identifier in the same line
+
+                ) | (                    # for animtions
 
                     \d+(\.\d+)?%|(from|to)\b
 
                 ) | (                   # Placeholder selectors
 
-                    \$[\w$-]+\b\s*        # are an identifier starting with $
+                    \$[\w$-]+\b\s*      # are an identifier starting with $
                     (?=$|\{)            # and they can't have anything besides
                                         # that identifier in the same line
 

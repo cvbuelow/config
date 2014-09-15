@@ -13,7 +13,7 @@
 	"line_padding_top": 1,
 	"match_brackets_content": false,
 	"scroll_past_end": true,
-	"soda_classic_tabs": false,
+	"soda_classic_tabs": true,
 	"soda_folder_icons": true,
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",

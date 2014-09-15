@@ -8,7 +8,7 @@ A sublime text 2/3 plugin to show an icon in the gutter area indicating whether 
 
 ### Installation
 
-You can install via [Sublime Package Control](http://wbond.net/sublime_packages/package_control)  
+You can install via [Sublime Package Control](http://wbond.net/sublime_packages/package_control)
 Or you can clone this repo into your *Sublime Text 2/Packages*
 
 *OSX*
@@ -39,6 +39,9 @@ Default settings should not be modified, as they are overwritten when GitGutter 
 
 #### Non Blocking Mode
 By default, GitGutter runs in the same thread which can block if it starts to perform slowly. Usually this isn't a problem but depending on the size of your file or repo it can be. If you set `non_blocking` to `true` then GitGutter will run in a seperate thread and will not block. This does cause a slight delay between when you make a modification and when the icons update in the gutter. This is a ***Sublime Text 3 only feature***, ST2 users can turn off live mode if performance is an issue.
+
+#### Debounce Delay
+When using non_blocking mode, delay update of gutter icons by the following amount (in milliseconds). Useful for performance issues. Default 1000 (1 second).
 
 #### Live Mode
 By default, GitGutter detects changes every time the file is modified. If you experience performance issues you can set it to only run on save by setting `live_mode` to `false`.
@@ -92,6 +95,9 @@ Color schemes that already have support for GitGutter include:
 * [Specials Board](https://github.com/lamotta/specialsboard)
 * [Oblivion](https://github.com/jbrooksuk/Oblivion)
 * [Glacier](http://glaciertheme.com)
+* [Neon](https://github.com/farzher/Sublime-Text-Themes)
+* [Afterglow](https://github.com/YabataDesign/afterglow-theme)
+* [Desert Night](https://github.com/fgb/desert_night)
 * _Contact me if you want your color scheme listed here. Or do a pull request._
 
 If your color scheme file does not define the appropriate colors (or you want to edit them) add an entry that looks like this:
